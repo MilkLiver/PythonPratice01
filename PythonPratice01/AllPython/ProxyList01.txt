@@ -1,0 +1,1479 @@
+189.84.212.38:4145 Brazil  Serra  1560 SOCKS4 
+190.111.238.127:45843 Argentina  Buenos Aires 1400 SOCKS4 
+190.104.245.83:43650 Argentina  Buenos Aires 1440 SOCKS4 
+190.104.239.56:35067 Argentina  Buenos Aires 1400 SOCKS4 
+190.108.65.102:36728 Ecuador  Quito  1240 SOCKS4 
+189.51.132.113:4145 Brazil  Assis  1300 SOCKS4 
+189.84.118.70:39911 Brazil  Macau  1180 SOCKS4 
+189.91.101.54:4145 Brazil   1500 SOCKS4 
+189.89.24.181:4145 Brazil  Manhuacu  1400 SOCKS4 
+189.89.24.129:4145 Brazil  Manhuacu  1400 SOCKS4 
+189.89.18.195:4145 Brazil  Manhuacu  1520 SOCKS4 
+189.57.121.250:4145 Brazil  Vargem Grande do Sul 1440 SOCKS4 
+189.51.155.221:4145 Brazil  Assis  1320 SOCKS4 
+189.51.127.1:4145 Brazil  Almenara  1300 SOCKS4 
+190.103.80.12:4145 Argentina  La Plata 1400 SOCKS4 
+189.76.240.114:4145 Brazil  Estancia Velha 1400 SOCKS4 
+189.50.142.114:4145 Brazil  Mirassol  1360 SOCKS4 
+189.52.165.134:1080 Brazil   1500 SOCKS4 
+190.104.17.3:4145 Bolivia  Santa Cruz 1320 SOCKS4 
+190.109.176.153:33385 Colombia   1040 SOCKS4 
+190.107.20.122:47280 Colombia   1240 SOCKS4 
+190.0.243.242:59311 Colombia   1100 SOCKS4 
+189.84.121.202:36501 Brazil  Aracati  1100 SOCKS4 
+190.111.6.193:52139 Guatemala   940 SOCKS4 
+190.111.12.242:40431 Guatemala   960 SOCKS4 
+190.109.171.78:40174 Colombia   1040 SOCKS4 
+190.111.123.194:4145 Venezuela   1120 SOCKS4 
+190.107.20.203:4145 Colombia   1120 SOCKS4 
+189.51.128.58:4145 Brazil  Assis  1340 SOCKS4 
+190.107.19.166:4145 Colombia   2240 SOCKS4 
+190.104.26.227:33638 Bolivia  La Paz 1200 SOCKS4 
+190.112.178.121:41120 Argentina  Buenos Aires 1380 SOCKS4 
+190.109.72.33:33633 Brazil  Sao Geraldo do Araguaia 1380 SOCKS4 
+190.109.72.25:33633 Brazil  Sao Geraldo do Araguaia 1440 SOCKS4 
+190.110.184.50:33785 Argentina  General Deheza 1500 SOCKS4 
+190.111.195.32:45262 Argentina  Buenos Aires 1420 SOCKS4 
+189.51.116.5:4145 Brazil   1320 SOCKS4 
+189.57.182.82:4145 Brazil  Itu  1400 SOCKS4 
+190.111.255.184:4145 Argentina  Buenos Aires 1400 SOCKS4 
+189.90.118.58:4145 Brazil  Cantagalo  1400 SOCKS4 
+189.89.24.33:4145 Brazil  Manhuacu  1400 SOCKS4 
+189.53.183.5:4145 Brazil  Lucas do Rio Verde 1380 SOCKS4 
+189.51.155.209:4145 Brazil  Assis  1340 SOCKS4 
+189.50.3.50:4145 Brazil  Vila Velha 1280 SOCKS4 
+189.89.24.70:4145 Brazil  Manhuacu  1380 SOCKS4 
+189.84.125.250:4145 Brazil  Marco  1200 SOCKS4 
+189.80.143.18:4145 Brazil   1480 SOCKS4 
+189.53.183.13:4145 Brazil  Lucas do Rio Verde 1460 SOCKS4 
+189.51.155.251:4145 Brazil  Assis  1380 SOCKS4 
+189.51.128.59:4145 Brazil  Assis  1360 SOCKS4 
+189.51.128.29:4145 Brazil  Assis  1340 SOCKS4 
+189.51.101.145:4145 Brazil   1360 SOCKS4 
+189.80.219.58:4145 Brazil  Buriticupu  1120 SOCKS4 
+190.109.167.9:40795 Colombia   1080 SOCKS4 
+190.111.30.153:43041 Guatemala   1080 SOCKS4 
+190.111.12.243:40431 Guatemala   960 SOCKS4 
+190.109.170.105:43375 Colombia   1080 SOCKS4 
+190.107.19.162:4145 Colombia   1140 SOCKS4 
+213.6.229.98:36127 Palestinian Territory   3180 HTTP 
+59.153.121.184:1080 India  Thane  1820 SOCKS4 
+59.153.121.162:1080 India  Thane  800 SOCKS4 
+45.250.226.47:8080 India  Pune  700 HTTP 
+190.141.32.158:4145 Panama  Panama City 4100 SOCKS4 
+213.6.67.86:32586 Palestinian Territory  Nablus  3260 HTTP 
+37.75.208.48:8080 Palestinian Territory  Gaza  840 HTTP 
+213.6.65.30:8080 Palestinian Territory  Nablus  640 HTTP 
+190.0.246.205:8080 Colombia   880 HTTP 
+213.6.199.122:8080 Palestinian Territory   1140 HTTP 
+178.214.70.251:8080 Palestinian Territory   560 HTTP 
+5.133.24.206:8080 Palestinian Territory  Gaza  620 HTTP 
+5.133.27.55:3129 Palestinian Territory  Gaza  640 HTTP 
+190.12.13.150:4145 Ecuador   1160 SOCKS4 
+190.131.223.210:3629 Colombia  Puerto Narino 1000 SOCKS4 
+190.12.15.46:4145 Ecuador   1140 SOCKS4 
+103.44.50.114:4145 India  Mumbai  820 SOCKS4 
+103.209.38.121:51372 India  Mumbai  800 SOCKS4 
+182.73.25.220:80 India   960 HTTP 
+190.116.178.27:51921 Peru   1200 SOCKS4 
+190.151.94.2:56093 Chile  Santiago  1380 SOCKS4 
+190.180.148.114:4145 Brazil  Tocantinopolis  1420 SOCKS4 
+190.1.97.49:4145 Argentina  Rosario  1560 SOCKS4 
+190.14.170.196:1080 Argentina  Comodoro Rivadavia 1660 SOCKS4 
+190.124.29.132:4145 Venezuela  Maracaibo  980 SOCKS4 
+190.155.135.138:1080 Ecuador  Guayaquil  1120 SOCKS4 
+190.12.13.78:4145 Ecuador   1140 SOCKS4 
+190.145.215.242:42000 Colombia  Soledad  1000 SOCKS4 
+190.116.178.29:51921 Peru   1180 SOCKS4 
+27.54.186.156:31676 India   1000 SOCKS4 
+190.157.6.42:44985 Colombia  Barranquilla  1100 SOCKS4 
+190.121.157.201:55085 Colombia   1140 SOCKS4 
+190.121.151.198:59921 Colombia   1080 SOCKS4 
+103.226.143.254:1080 India  Lonavla  840 SOCKS4 
+190.12.13.146:4145 Ecuador   1140 SOCKS4 
+190.145.255.246:4145 Colombia  Santiago de Cali 980 SOCKS4 
+103.219.40.170:4145 India  Mumbai  800 SOCKS4 
+190.12.8.146:1080 Ecuador  Quito  1080 SOCKS4 
+190.115.1.165:56660 Guatemala   2260 SOCKS4 
+190.145.156.58:60039 Colombia   1060 SOCKS4 
+94.102.224.239:38971 Montenegro  Podgorica  460 SOCKS4 
+59.153.121.189:1080 India  Thane  800 SOCKS4 
+190.113.162.53:4145 Argentina  Mendoza  1500 SOCKS4 
+190.144.51.114:30492 Colombia   1200 SOCKS4 
+190.158.228.190:35647 Colombia   1060 SOCKS4 
+190.116.178.28:51921 Peru   1200 SOCKS4 
+190.141.45.217:30776 Panama  Panama City 1180 SOCKS4 
+190.119.212.93:51811 Peru   1180 SOCKS4 
+190.167.110.187:30940 Dominican Republic  Santo Domingo 1080 SOCKS4 
+190.14.244.185:61932 Colombia   1100 SOCKS4 
+190.121.142.202:4145 Colombia   1200 SOCKS4 
+103.204.166.18:60423 India  Thane  800 SOCKS4 
+190.119.242.38:4145 Peru  Lima  1200 SOCKS4 
+190.167.214.190:4145 Dominican Republic   1060 SOCKS4 
+190.145.132.250:4145 Colombia  Cogua  1060 SOCKS4 
+190.180.148.218:4145 Brazil  Tocantinopolis  1440 SOCKS4 
+190.121.142.2:4145 Colombia  Pereira  1140 SOCKS4 
+190.131.213.58:4145 Colombia   940 SOCKS4 
+190.122.185.34:4145 Guatemala   960 SOCKS4 
+103.22.173.250:4145 India  Hyderabad  900 SOCKS4 
+217.15.195.141:46298 Russian Federation  Obninsk  140 HTTP 
+189.206.166.12:60002 Mexico   5100 HTTP 
+188.92.190.158:57422 Italy   4620 SOCKS4 
+189.201.241.55:4145 Mexico  Tijuana  1120 SOCKS4 
+189.201.241.69:4145 Mexico  Tijuana  1180 SOCKS4 
+188.75.188.52:43646 Czech Republic  Blansko  2160 SOCKS4 
+189.112.244.94:4145 Brazil  Canoas  1420 SOCKS4 
+189.206.216.18:4145 Mexico  Monterrey  1220 SOCKS4 
+189.14.199.133:4145 Brazil  Cariacica  1300 SOCKS4 
+189.126.174.67:4145 Brazil  Tupa  1300 SOCKS4 
+189.124.151.224:4145 Brazil  Natal  1280 SOCKS4 
+189.126.52.238:4145 Brazil  Sao Carlos 1420 SOCKS4 
+189.14.225.144:4145 Brazil  Antonio Prado 1300 SOCKS4 
+189.112.108.49:4145 Brazil  Osasco  1320 SOCKS4 
+189.220.226.34:4145 Mexico  Oaxaca City 1160 SOCKS4 
+188.72.0.249:4145 Iraq  Kirkuk  640 SOCKS4 
+188.95.77.35:51702 Italy  Valli del Pasubio 360 SOCKS4 
+188.95.77.2:51702 Italy  Valli del Pasubio 380 SOCKS4 
+188.43.117.38:51307 Russian Federation  Tulun  560 SOCKS4 
+188.27.137.163:61676 Romania  Lita  480 SOCKS4 
+188.6.164.138:30255 Hungary  Nagocs  480 SOCKS4 
+188.252.96.6:4145 Poland  Gdynia  440 SOCKS4 
+189.28.165.148:4145 Brazil  Santo Antonio de Jesus 1580 SOCKS4 
+188.252.91.86:4145 Poland  Gdynia  460 SOCKS4 
+188.244.20.242:4145 Moldova  Chisinau  440 SOCKS4 
+188.243.70.186:40463 Russian Federation  St Petersburg 120 SOCKS4 
+188.64.129.242:46101 Russian Federation  Veliky Novgorod 120 SOCKS4 
+188.64.129.104:46232 Russian Federation  Veliky Novgorod 180 SOCKS4 
+188.32.95.148:50091 Russian Federation  Moscow  100 SOCKS4 
+188.243.62.147:40012 Russian Federation  St Petersburg 140 SOCKS4 
+188.243.58.75:46643 Russian Federation  St Petersburg 120 SOCKS4 
+188.242.4.201:31933 Russian Federation  St Petersburg 120 SOCKS4 
+189.127.255.150:4145 Brazil  Jacutinga  1280 SOCKS4 
+189.109.43.58:4145 Brazil   1400 SOCKS4 
+188.35.184.210:4145 Russian Federation  Moscow  80 SOCKS4 
+189.201.216.75:4145 Brazil  Vila Velha 1380 SOCKS4 
+189.127.36.42:4145 Brazil  Jaguaruana  1140 SOCKS4 
+189.38.46.74:4145 Brazil  Catalao  1380 SOCKS4 
+189.14.193.59:4145 Brazil  Cariacica  1320 SOCKS4 
+189.126.55.205:4145 Brazil  Sao Carlos 1480 SOCKS4 
+188.72.0.253:4145 Iraq  Kirkuk  640 SOCKS4 
+188.72.0.150:4145 Iraq  Kirkuk  640 SOCKS4 
+188.95.124.6:51078 Czech Republic   440 SOCKS4 
+188.244.139.51:4145 Russian Federation  Yakutsk  580 SOCKS4 
+189.207.33.86:4145 Mexico  Monterrey  1000 SOCKS4 
+188.255.182.218:54608 Serbia  Belgrade  240 SOCKS4 
+188.85.250.152:4145 Spain  San Fernando 460 SOCKS4 
+188.75.138.234:44713 Czech Republic  Prague  420 SOCKS4 
+188.247.39.14:43032 Russian Federation   200 SOCKS4 
+188.95.77.33:51702 Italy  Valli del Pasubio 360 SOCKS4 
+188.95.77.32:51702 Italy  Valli del Pasubio 360 SOCKS4 
+188.246.140.112:38653 Poland  Lodz  380 SOCKS4 
+188.241.35.4:33535 Romania   480 SOCKS4 
+188.93.242.213:33137 Russian Federation  St Petersburg 240 SOCKS4 
+188.69.135.214:1080 Lithuania  Ukmerge  380 SOCKS4 
+188.186.180.35:4145 Russian Federation  Tyumen  200 SOCKS4 
+188.43.37.237:4145 Russian Federation  Volgograd  300 SOCKS4 
+188.241.45.61:4145 United Kingdom  London  360 SOCKS4 
+188.244.20.174:4145 Moldova  Chisinau  440 SOCKS4 
+188.241.45.85:4145 United Kingdom  London  360 SOCKS4 
+188.65.131.170:56792 Russian Federation  Moscow  100 SOCKS4 
+188.32.175.199:40164 Russian Federation  Moscow  100 SOCKS4 
+188.92.242.180:31526 Russian Federation  Shchelkovo  80 SOCKS4 
+188.244.32.81:4145 Russian Federation  Moscow  80 SOCKS4 
+188.35.138.138:1080 Russian Federation  Moscow  100 SOCKS4 
+162.155.179.211:58065 United States  Louisville  5100 HTTP 
+104.248.65.234:80 United States  Santa Clara 4800 HTTP 
+91.205.131.27:59420 Russian Federation  Makhachkala  200 HTTP 
+142.4.15.25:3128 United States  Provo  4720 HTTP 
+12.131.20.2:53405 United States   2860 HTTP 
+108.29.37.161:59283 United States  New York 4680 HTTP 
+140.190.54.187:46447 United States  Red Wing 2360 HTTP 
+104.248.74.241:8080 United States  Santa Clara 780 HTTP 
+162.243.135.207:1080 United States  San Francisco 780 HTTP 
+12.157.150.230:51576 United States  Escondido  3100 HTTP 
+138.197.102.119:80 United States  Clifton  1300 HTTP 
+155.186.173.52:53281 United States  Locust Grove 2700 HTTP 
+162.243.17.34:80 United States  New York 1660 HTTP 
+150.199.194.125:51078 United States  Columbia  1660 HTTP 
+162.220.108.59:8080 United States  Upland  1180 HTTP 
+138.197.213.106:80 United States  Santa Clara 780 HTTP 
+138.197.213.106:8080 United States  Santa Clara 800 HTTP 
+138.197.213.106:3128 United States  Santa Clara 780 HTTP 
+137.27.142.226:54922 United States  Fort Worth 1080 HTTP 
+108.53.19.16:56149 United States  Jersey City 1160 HTTP 
+12.218.209.130:53281 United States   1760 HTTP 
+107.190.148.202:34932 United States  Myrtle Beach 740 HTTP 
+138.197.74.5:8080 United States  Clifton  540 HTTP 
+67.205.143.4:8080 United States  North Bergen 540 HTTP 
+138.68.41.90:3128 United States  Santa Clara 1360 HTTP 
+162.243.175.141:8080 United States  New York 960 HTTP 
+162.243.175.141:3128 United States  New York 900 HTTP 
+162.243.99.57:3128 United States  New York 540 HTTP 
+156.237.192.226:1080 United States   1980 HTTP 
+156.237.192.227:1080 United States   2220 HTTP 
+156.237.192.229:1080 United States   2160 HTTP 
+160.2.52.234:64312 United States  Pocatello  2460 SOCKS4 
+156.237.192.230:1080 United States   2000 HTTP 
+138.68.41.90:8080 United States  New York 1360 HTTP 
+138.68.230.88:8080 United States  New York 1360 HTTP 
+138.68.235.8:3128 United States  New York 1380 HTTP 
+138.68.230.88:3128 United States  Santa Clara 1380 HTTP 
+138.68.235.8:8080 United States  Santa Clara 1380 HTTP 
+43.231.215.230:35798 India  Thane  3280 HTTP 
+75.66.33.78:33150 United States  West Point 960 SOCKS4 
+74.116.182.49:39593 United States  Moses Lake 1060 SOCKS4 
+68.112.54.79:64312 United States  Angier  900 SOCKS4 
+138.68.198.203:3128 United States  New York 800 HTTP 
+162.243.108.161:8080 United States  New York 920 HTTP 
+162.243.108.161:3128 United States  New York 920 HTTP 
+162.243.107.120:8080 United States  New York 940 HTTP 
+138.68.240.218:3128 United States  Santa Clara 800 HTTP 
+138.68.240.218:8080 United States  Santa Clara 780 HTTP 
+104.248.61.211:80 United States  North Bergen 560 HTTP 
+162.243.108.141:8080 United States  New York 540 HTTP 
+162.243.108.141:3128 United States  New York 540 HTTP 
+162.243.108.129:8080 United States  New York 540 HTTP 
+162.243.108.129:3128 United States  New York 520 HTTP 
+162.243.107.45:8080 United States  New York 540 HTTP 
+162.243.107.45:3128 United States  New York 540 HTTP 
+162.243.107.43:8080 United States  New York 540 HTTP 
+162.243.107.43:3128 United States  New York 540 HTTP 
+162.243.99.57:8080 United States  New York 520 HTTP 
+199.21.98.88:80 United States   60 HTTP 
+188.212.131.221:42222 Romania   900 SOCKS4 
+187.84.254.161:4145 Brazil  Abaete  1300 SOCKS4 
+189.89.168.133:4145 Brazil  Camacari  1300 SOCKS4 
+188.169.27.252:4145 Georgia  Tbilisi  640 SOCKS4 
+188.191.166.23:61080 Russian Federation   380 SOCKS4 
+188.233.188.128:30965 Russian Federation  Volgograd  200 SOCKS4 
+188.186.181.187:37982 Russian Federation  Tyumen  220 SOCKS4 
+188.235.107.77:59891 Russian Federation  Lipetsk  140 SOCKS4 
+188.168.96.34:31834 Russian Federation   300 SOCKS4 
+188.169.176.74:51369 Georgia  Tbilisi  440 SOCKS4 
+188.168.75.254:33654 Russian Federation  Solikamsk  240 SOCKS4 
+188.187.62.10:59207 Russian Federation  St Petersburg 180 SOCKS4 
+188.226.64.6:51327 Russian Federation  Yekaterinburg  260 SOCKS4 
+188.168.56.31:4145 Russian Federation  Rostov-on-Don  200 SOCKS4 
+188.170.249.201:4145 Russian Federation   460 SOCKS4 
+188.234.216.99:4145 Russian Federation  Yekaterinburg  180 SOCKS4 
+188.237.206.224:4145 Moldova  Soldanesti  280 SOCKS4 
+188.233.34.13:4145 Russian Federation  Volgograd  360 SOCKS4 
+188.233.188.122:4145 Russian Federation  Volgograd  160 SOCKS4 
+188.212.15.4:4145 Moldova  Chisinau  240 SOCKS4 
+188.187.54.43:4145 Russian Federation  St Petersburg 160 SOCKS4 
+188.133.160.22:4145 Russian Federation  Nizhniy Novgorod 260 SOCKS4 
+188.168.27.73:37925 Russian Federation  Irkutsk  400 SOCKS4 
+189.89.132.194:4145 Brazil  Camacari  1300 SOCKS4 
+188.235.104.179:48522 Russian Federation  Lipetsk  120 SOCKS4 
+188.133.180.230:30345 Russian Federation   1380 SOCKS4 
+188.138.207.106:38267 Moldova  Chisinau  440 SOCKS4 
+188.17.156.26:32047 Russian Federation  Perm  340 SOCKS4 
+188.235.104.251:55830 Russian Federation  Voronezh  120 SOCKS4 
+188.233.188.190:4145 Russian Federation  Volgograd  160 SOCKS4 
+188.234.214.221:4145 Russian Federation  Yekaterinburg  200 SOCKS4 
+188.212.131.42:4145 Romania   460 SOCKS4 
+188.235.61.25:4145 Russian Federation  Voronezh  80 SOCKS4 
+188.235.61.22:4145 Russian Federation  Voronezh  80 SOCKS4 
+188.235.61.20:4145 Russian Federation  Voronezh  80 SOCKS4 
+188.168.27.71:38071 Russian Federation  Irkutsk  1580 SOCKS4 
+188.187.1.41:41356 Russian Federation  St Petersburg 140 SOCKS4 
+188.170.234.58:54018 Russian Federation   760 SOCKS4 
+188.134.17.242:30839 Russian Federation  St Petersburg 180 SOCKS4 
+188.172.94.56:4145 Malta  Saint Venera 620 SOCKS4 
+188.162.227.172:4145 Russian Federation  Khabarovsk  800 SOCKS4 
+188.169.192.103:4145 Georgia  Tbilisi  660 SOCKS4 
+188.134.1.20:63756 Russian Federation  St Petersburg 600 SOCKS4 
+188.170.8.109:40223 Russian Federation  Moscow  160 SOCKS4 
+188.230.113.71:56600 Ukraine  Ivano-Frankivsk  140 SOCKS4 
+188.168.92.1:35017 Russian Federation  Nizhniy Novgorod 120 SOCKS4 
+188.19.64.122:4145 Russian Federation   220 SOCKS4 
+188.18.55.237:61338 Russian Federation  Kogalym  420 SOCKS4 
+188.230.72.236:39441 Ukraine  Rivne  160 SOCKS4 
+188.235.255.70:47949 Russian Federation  Krasnoyarsk  300 SOCKS4 
+188.215.70.115:31468 Romania   340 SOCKS4 
+188.138.248.77:39197 Moldova  Chisinau  460 SOCKS4 
+188.163.170.130:35578 Ukraine  Zaporizhia  240 SOCKS4 
+188.235.11.88:32216 Russian Federation  Voronezh  120 SOCKS4 
+188.138.250.83:39897 Moldova  Chisinau  460 SOCKS4 
+188.191.29.141:57867 Ukraine  Simferopol  200 SOCKS4 
+188.231.142.71:57928 Ukraine  Kyiv  360 SOCKS4 
+188.187.189.142:53255 Russian Federation  Yoshkar-Ola  160 SOCKS4 
+188.186.182.125:4145 Russian Federation  Tyumen  200 SOCKS4 
+188.138.166.95:60070 Moldova  Chisinau  460 SOCKS4 
+188.165.138.11:54430 Finland   300 SOCKS4 
+188.234.240.159:33539 Russian Federation  Yekaterinburg  180 SOCKS4 
+188.133.136.10:4153 Russian Federation  Moscow  200 SOCKS4 
+188.168.29.139:59346 Russian Federation  Irkutsk  360 SOCKS4 
+188.19.116.122:51327 Russian Federation   200 SOCKS4 
+188.134.27.156:1080 Russian Federation  St Petersburg 140 SOCKS4 
+188.235.62.198:4145 Russian Federation  Voronezh  220 SOCKS4 
+188.138.238.255:4145 Moldova  Chisinau  460 SOCKS4 
+188.237.137.209:4145 Moldova  Chisinau  260 SOCKS4 
+188.237.135.3:4145 Moldova  Chisinau  200 SOCKS4 
+188.235.0.42:4145 Russian Federation  Voronezh  100 SOCKS4 
+188.214.203.203:4145 Moldova  Chisinau  280 SOCKS4 
+188.235.145.183:39507 Russian Federation  Saratov  20 SOCKS4 
+188.235.138.182:52699 Russian Federation  Saratov  0 SOCKS4 
+188.235.148.209:35475 Russian Federation  Saratov  0 SOCKS4 
+188.235.129.124:4145 Russian Federation  Saratov  40 SOCKS4 
+188.235.155.73:4145 Russian Federation  Saratov  0 SOCKS4 
+188.235.61.21:4145 Russian Federation  Voronezh  80 SOCKS4 
+187.95.34.10:8080 Brazil  Sao Jose do Rio Preto 1140 HTTP 
+187.87.39.38:52597 Brazil  Feira de Santana 2560 HTTP 
+187.85.133.9:54959 Brazil  Gramado  1400 HTTP 
+187.85.134.1:4145 Brazil  Caxias do Sul 1460 SOCKS4 
+187.85.138.35:4145 Brazil  Feliz  1540 SOCKS4 
+187.87.39.38:36876 Brazil  Feira de Santana 1280 SOCKS4 
+187.85.128.237:4145 Brazil  Farroupilha  1360 SOCKS4 
+187.62.195.98:4145 Brazil  Montes Claros 1460 SOCKS4 
+187.84.79.1:4145 Brazil  Toritama  1520 SOCKS4 
+187.63.72.69:54904 Brazil  Sao Goncalo 1260 SOCKS4 
+187.63.72.66:54904 Brazil  Sao Goncalo 1280 SOCKS4 
+187.60.47.234:4145 Brazil  Trindade  1280 SOCKS4 
+187.85.84.202:3629 Brazil  Barbacena  1320 SOCKS4 
+187.62.176.148:4145 Brazil  Bariri  1300 SOCKS4 
+187.72.212.73:59341 Brazil  Uniao  1460 SOCKS4 
+187.94.214.7:4145 Brazil  Manhumirim  1520 SOCKS4 
+187.85.195.1:4145 Brazil  Candido Mota 1360 SOCKS4 
+187.85.141.5:4145 Brazil  Feliz  1320 SOCKS4 
+187.85.139.1:4145 Brazil  Feliz  1360 SOCKS4 
+187.85.128.233:4145 Brazil  Farroupilha  1320 SOCKS4 
+187.73.55.153:4145 Brazil  Ubaira  1340 SOCKS4 
+187.72.242.253:4145 Brazil  Nova Lima 1380 SOCKS4 
+187.72.114.79:4145 Brazil  Pedregulho  1360 SOCKS4 
+187.60.34.238:4145 Brazil  Meruoca  1300 SOCKS4 
+187.84.191.110:4145 Brazil  Cristalina  1280 SOCKS4 
+187.85.128.58:4145 Brazil  Farroupilha  1420 SOCKS4 
+187.85.128.10:4145 Brazil  Farroupilha  1300 SOCKS4 
+187.84.146.210:4145 Brazil  Salvador  1300 SOCKS4 
+187.84.146.202:4145 Brazil  Salvador  1260 SOCKS4 
+187.84.146.194:4145 Brazil  Salvador  1280 SOCKS4 
+187.84.146.186:4145 Brazil  Salvador  1260 SOCKS4 
+187.84.146.170:4145 Brazil  Salvador  1300 SOCKS4 
+187.73.110.229:4145 Brazil   1260 SOCKS4 
+187.86.242.14:4145 Brazil  Lagoa Santa 1240 SOCKS4 
+187.95.236.245:4145 Brazil  Guarabira  1200 SOCKS4 
+188.124.12.74:41942 Turkey   700 SOCKS4 
+188.117.244.225:59242 Austria  Krems  380 SOCKS4 
+187.67.158.72:31141 Brazil  Rio de Janeiro 1360 SOCKS4 
+187.85.128.9:4145 Brazil  Farroupilha  1360 SOCKS4 
+187.60.253.70:4145 Brazil  Goiana  1500 SOCKS4 
+187.60.254.202:4145 Brazil  Recife  1500 SOCKS4 
+187.85.15.37:54993 Brazil  Bauru  1360 SOCKS4 
+187.84.141.218:32842 Brazil  Armacao de Buzios 1280 SOCKS4 
+187.62.198.48:4145 Brazil  Itabuna  1420 SOCKS4 
+187.62.176.149:4145 Brazil  Bariri  1340 SOCKS4 
+187.95.124.89:4145 Brazil  Curitiba  1360 SOCKS4 
+187.87.206.241:4145 Brazil  Conceicao da Feira 1320 SOCKS4 
+187.84.80.193:4145 Brazil   1240 SOCKS4 
+187.84.156.1:4145 Brazil  Salvador  1280 SOCKS4 
+187.84.152.1:4145 Brazil  Salvador  1300 SOCKS4 
+187.84.145.1:4145 Brazil  Salvador  1320 SOCKS4 
+187.72.153.52:4145 Brazil  Contagem  1400 SOCKS4 
+187.62.196.64:4145 Brazil  Montes Claros 1380 SOCKS4 
+187.87.218.6:4145 Brazil  Tapira  1280 SOCKS4 
+187.87.170.147:4145 Brazil  Pirapora  1280 SOCKS4 
+187.84.254.254:4145 Brazil  Abaete  1320 SOCKS4 
+187.84.146.6:4145 Brazil  Salvador  1320 SOCKS4 
+187.84.146.174:4145 Brazil  Salvador  1280 SOCKS4 
+187.95.123.74:4145 Brazil  Curitiba  1400 SOCKS4 
+187.84.146.198:4145 Brazil  Salvador  1340 SOCKS4 
+187.73.110.139:4145 Brazil   1260 SOCKS4 
+187.63.215.18:4145 Brazil  Alpestre  1300 SOCKS4 
+187.62.176.147:4145 Brazil  Bariri  1300 SOCKS4 
+187.87.206.158:4145 Brazil  Conceicao da Feira 1380 SOCKS4 
+187.87.0.5:4145 Brazil  Santa Cruz 1100 SOCKS4 
+187.44.252.106:4145 Brazil  Salvador  1220 SOCKS4 
+187.94.99.197:1080 Brazil  Garopaba  1320 SOCKS4 
+188.114.66.110:45704 Poland  Gora Kalwaria 280 SOCKS4 
+188.0.160.115:54691 Russian Federation  Grozny  220 SOCKS4 
+188.0.163.90:35862 Russian Federation  Grozny  220 SOCKS4 
+188.130.167.141:31543 Kazakstan  Kostanay  260 SOCKS4 
+188.130.240.221:40879 Russian Federation   160 SOCKS4 
+188.126.44.203:57973 Russian Federation  Domodedovo  100 SOCKS4 
+188.125.107.117:57528 Italy  Roncade  340 SOCKS4 
+188.125.106.176:4145 Italy  Pordenone  340 SOCKS4 
+213.168.188.250:8888 Czech Republic  Pecka  4020 HTTP 
+51.38.234.95:8080 France   340 HTTP 
+93.99.166.82:59081 Czech Republic  Pilsen  360 SOCKS4 
+93.99.18.30:37523 Czech Republic   300 SOCKS4 
+93.99.194.30:61221 Czech Republic  Komarov  340 SOCKS4 
+46.226.16.84:4145 Czech Republic  Prague  320 SOCKS4 
+92.62.225.2:4145 Czech Republic  Ledenice  320 SOCKS4 
+89.148.195.140:8080 Russian Federation  Perm  3860 HTTP 
+87.255.6.76:8080 Russian Federation  Khimki  5100 HTTP 
+37.200.77.192:56910 Russian Federation  Vladivostok  3540 HTTP 
+109.68.187.21:3128 Russian Federation  Moscow  2920 HTTP 
+92.51.36.1:8080 Russian Federation   3900 HTTP 
+46.29.8.194:53281 Russian Federation  Krasnodar  2420 HTTP 
+185.31.162.103:8080 Russian Federation   2620 HTTP 
+5.140.212.175:22129 Russian Federation  Perm  1800 HTTP 
+128.68.47.241:48098 Russian Federation  Moscow  3020 HTTP 
+195.9.44.50:55197 Russian Federation  Moscow  3340 HTTP 
+178.170.254.178:46788 Russian Federation  Moscow  880 HTTP 
+5.57.233.18:8080 Russian Federation   1960 HTTP 
+37.235.67.178:34450 Russian Federation  Nizhniy Novgorod 1280 HTTP 
+95.66.136.240:8080 Russian Federation  Vladimir  2520 HTTP 
+195.206.42.99:32570 Russian Federation  Irkutsk  860 HTTP 
+91.190.80.100:31659 Russian Federation  St Petersburg 640 HTTP 
+31.148.48.151:41917 Russian Federation  Angarsk  660 HTTP 
+91.219.136.148:8080 Russian Federation  Ust'-Ilimsk  500 HTTP 
+176.195.172.225:37864 Russian Federation  Balashikha  560 HTTP 
+95.31.197.77:41651 Russian Federation  Rostov-on-Don  260 HTTP 
+85.192.179.70:59802 Russian Federation  Gay  420 HTTP 
+217.74.161.42:34175 Russian Federation  Krasnoyarsk  540 HTTP 
+94.158.165.19:45915 Russian Federation  Moscow  400 HTTP 
+212.26.247.178:38418 Russian Federation  Ryazan  420 HTTP 
+80.237.6.1:34880 Russian Federation  Neryungri  360 HTTP 
+91.217.202.174:8080 Russian Federation   460 HTTP 
+193.242.177.105:53281 Russian Federation   180 HTTP 
+176.117.126.22:8080 Russian Federation  Dzerzhinskiy  260 HTTP 
+193.242.178.90:8080 Russian Federation   100 HTTP 
+62.76.192.22:3128 Russian Federation   100 HTTP 
+176.214.82.14:51049 Russian Federation  Yaroslavl  5100 HTTP 
+109.233.241.10:8080 Russian Federation   3700 HTTP 
+188.35.167.7:45619 Russian Federation   1100 HTTP 
+193.19.133.1:8080 Russian Federation   2320 HTTP 
+195.191.183.169:47238 Russian Federation   2400 HTTP 
+109.60.137.186:80 Russian Federation  Ivanovo  1040 HTTP 
+94.143.42.30:8080 Russian Federation  Stupino  3520 HTTP 
+79.120.50.162:37928 Russian Federation  Moscow  2340 HTTP 
+46.254.24.214:41056 Russian Federation  Asbest  2760 HTTP 
+188.170.182.154:8080 Russian Federation   320 HTTP 
+91.143.166.124:44485 Russian Federation  Nizhny Tagil 1960 HTTP 
+195.18.38.76:8080 Russian Federation  Elektrostal  1840 HTTP 
+89.249.251.21:3128 Russian Federation  Moscow  2380 HTTP 
+213.59.251.247:8080 Russian Federation  Yakutsk  3580 HTTP 
+178.209.118.66:8080 Russian Federation   1800 HTTP 
+188.133.151.40:8080 Russian Federation  Moscow  640 HTTP 
+92.126.205.63:53281 Russian Federation  Omsk  1220 HTTP 
+79.104.25.218:8080 Russian Federation  Moscow  900 HTTP 
+84.244.20.110:8080 Russian Federation  Irkutsk  460 HTTP 
+80.255.151.67:8080 Russian Federation   400 HTTP 
+79.122.193.130:8080 Russian Federation   820 HTTP 
+79.137.181.170:8080 Russian Federation   880 HTTP 
+95.165.219.122:48146 Russian Federation  Moscow  820 HTTP 
+5.16.15.2:8080 Russian Federation  Moscow  740 HTTP 
+31.131.67.14:8080 Russian Federation  Moscow  480 HTTP 
+85.192.166.189:8080 Russian Federation  Orenburg  260 HTTP 
+31.210.211.147:8080 Russian Federation  Voronezh  200 HTTP 
+195.239.248.220:8080 Russian Federation  Mariinsk  660 HTTP 
+178.46.157.208:8080 Russian Federation  Tyumen  400 HTTP 
+89.107.123.27:8080 Russian Federation   100 HTTP 
+185.116.202.157:8080 Russian Federation  Moscow  180 HTTP 
+213.108.221.201:32800 Russian Federation  Vladimir  140 HTTP 
+95.84.164.92:60071 Russian Federation  Elektrostal  100 HTTP 
+95.71.126.250:55705 Russian Federation  Belgorod  460 HTTP 
+194.186.18.46:56408 Russian Federation  Moscow  180 HTTP 
+88.87.91.163:48513 Russian Federation  Volgograd  200 HTTP 
+109.68.76.165:53231 Russian Federation   160 HTTP 
+95.79.99.148:3128 Russian Federation  Nizhniy Novgorod 180 HTTP 
+212.74.213.86:46020 Russian Federation   400 HTTP 
+78.81.24.112:8080 Russian Federation  Veliky Novgorod 180 HTTP 
+92.50.142.70:8080 Russian Federation  Ufa  180 HTTP 
+31.28.0.204:8080 Russian Federation  Moscow  100 HTTP 
+187.45.123.167:3128 Brazil  Aguas de Chapeco 1260 HTTP 
+187.188.46.172:53455 Mexico  Guadalajara  880 HTTP 
+1.186.40.2:54754 India  Mumbai  3100 HTTP 
+187.18.10.106:8080 Brazil  Salvador  1400 HTTP 
+94.153.169.22:59177 Ukraine  Lviv  280 HTTP 
+187.60.243.1:4145 Brazil  Caruaru  1540 SOCKS4 
+187.44.64.218:44550 Brazil  Ipameri  1360 SOCKS4 
+187.60.240.129:4145 Brazil  Ipojuca  1520 SOCKS4 
+187.60.252.185:4145 Brazil  Itabaiana  1500 SOCKS4 
+187.60.214.94:4145 Brazil  Ampere  1360 SOCKS4 
+187.60.214.201:4145 Brazil  Ampere  1420 SOCKS4 
+187.60.214.158:4145 Brazil  Ampere  1400 SOCKS4 
+187.60.214.121:4145 Brazil  Ampere  1400 SOCKS4 
+187.33.160.252:4145 Brazil  Dionisio Cerqueira 1480 SOCKS4 
+187.45.113.12:4145 Brazil  Santa Cruz do Sul 1380 SOCKS4 
+187.44.87.154:4145 Brazil  Canoas  1400 SOCKS4 
+187.60.215.214:4145 Brazil  Ampere  1400 SOCKS4 
+187.60.215.154:4145 Brazil  Ampere  1400 SOCKS4 
+187.108.21.10:4145 Brazil  Irai  1480 SOCKS4 
+187.60.249.18:4145 Brazil  Carpina  1480 SOCKS4 
+187.60.215.146:4145 Brazil  Ampere  1500 SOCKS4 
+187.60.215.226:4145 Brazil  Ampere  1400 SOCKS4 
+187.60.214.54:4145 Brazil  Ampere  1400 SOCKS4 
+187.189.26.14:50031 Mexico  Campeche  1160 SOCKS4 
+187.44.148.102:57675 Brazil  Dias davila 1240 SOCKS4 
+187.243.251.110:44350 Mexico  Salamanca  1100 SOCKS4 
+187.58.131.10:4145 Brazil  Rio de Janeiro 1340 SOCKS4 
+187.44.254.62:4145 Brazil  Camacari  1300 SOCKS4 
+187.36.136.85:4145 Brazil  Vila Velha 1320 SOCKS4 
+187.191.25.86:51327 Mexico  Tijuana  1020 SOCKS4 
+187.190.67.103:4145 Mexico   1100 SOCKS4 
+187.190.67.104:4145 Mexico   1080 SOCKS4 
+187.49.197.14:4145 Brazil  Campestre  1200 SOCKS4 
+187.44.192.110:4145 Brazil  Aratuipe  1280 SOCKS4 
+187.44.166.86:4145 Brazil  Lauro de Freitas 1240 SOCKS4 
+187.33.254.226:4145 Brazil  Campina Grande 1100 SOCKS4 
+187.18.211.20:4145 Brazil  Fortaleza  1380 SOCKS4 
+187.18.202.212:4145 Brazil  Fortaleza  1320 SOCKS4 
+187.176.123.2:4145 Mexico  Mexico City 1020 SOCKS4 
+187.60.212.76:4145 Brazil  Ampere  1460 SOCKS4 
+187.188.168.28:4145 Mexico  Oaxaca City 1060 SOCKS4 
+187.45.116.42:4145 Brazil  Romelandia  2480 SOCKS4 
+1.179.183.109:8080 Thailand   960 HTTP 
+187.60.208.169:4145 Brazil  Pato Branco 1440 SOCKS4 
+1.186.193.74:39658 India  Kolkata  3360 SOCKS4 
+187.32.200.237:38160 Brazil  Matias Barbosa 1360 SOCKS4 
+187.32.58.98:51327 Brazil  Campinas  1320 SOCKS4 
+187.60.221.1:4145 Brazil  Itapejara  1380 SOCKS4 
+193.19.133.1:8080 Russian Federation   2320 HTTP 
+195.191.183.169:47238 Russian Federation   2400 HTTP 
+109.60.137.186:80 Russian Federation  Ivanovo  1040 HTTP 
+94.143.42.30:8080 Russian Federation  Stupino  3520 HTTP 
+79.120.50.162:37928 Russian Federation  Moscow  2340 HTTP 
+46.254.24.214:41056 Russian Federation  Asbest  2760 HTTP 
+188.170.182.154:8080 Russian Federation   320 HTTP 
+91.143.166.124:44485 Russian Federation  Nizhny Tagil 1960 HTTP 
+195.18.38.76:8080 Russian Federation  Elektrostal  1840 HTTP 
+89.249.251.21:3128 Russian Federation  Moscow  2380 HTTP 
+213.59.251.247:8080 Russian Federation  Yakutsk  3580 HTTP 
+178.209.118.66:8080 Russian Federation   1800 HTTP 
+188.133.151.40:8080 Russian Federation  Moscow  640 HTTP 
+92.126.205.63:53281 Russian Federation  Omsk  1220 HTTP 
+79.104.25.218:8080 Russian Federation  Moscow  900 HTTP 
+84.244.20.110:8080 Russian Federation  Irkutsk  460 HTTP 
+80.255.151.67:8080 Russian Federation   400 HTTP 
+79.122.193.130:8080 Russian Federation   820 HTTP 
+79.137.181.170:8080 Russian Federation   880 HTTP 
+95.165.219.122:48146 Russian Federation  Moscow  820 HTTP 
+5.16.15.2:8080 Russian Federation  Moscow  740 HTTP 
+31.131.67.14:8080 Russian Federation  Moscow  480 HTTP 
+85.192.166.189:8080 Russian Federation  Orenburg  260 HTTP 
+31.210.211.147:8080 Russian Federation  Voronezh  200 HTTP 
+195.239.248.220:8080 Russian Federation  Mariinsk  660 HTTP 
+178.46.157.208:8080 Russian Federation  Tyumen  400 HTTP 
+89.107.123.27:8080 Russian Federation   100 HTTP 
+185.116.202.157:8080 Russian Federation  Moscow  180 HTTP 
+213.108.221.201:32800 Russian Federation  Vladimir  140 HTTP 
+95.84.164.92:60071 Russian Federation  Elektrostal  100 HTTP 
+95.71.126.250:55705 Russian Federation  Belgorod  460 HTTP 
+194.186.18.46:56408 Russian Federation  Moscow  180 HTTP 
+88.87.91.163:48513 Russian Federation  Volgograd  200 HTTP 
+109.68.76.165:53231 Russian Federation   160 HTTP 
+95.79.99.148:3128 Russian Federation  Nizhniy Novgorod 180 HTTP 
+212.74.213.86:46020 Russian Federation   400 HTTP 
+78.81.24.112:8080 Russian Federation  Veliky Novgorod 180 HTTP 
+92.50.142.70:8080 Russian Federation  Ufa  180 HTTP 
+31.28.0.204:8080 Russian Federation  Moscow  100 HTTP 
+187.45.123.167:3128 Brazil  Aguas de Chapeco 1260 HTTP 
+187.188.46.172:53455 Mexico  Guadalajara  880 HTTP 
+1.186.40.2:54754 India  Mumbai  3100 HTTP 
+187.18.10.106:8080 Brazil  Salvador  1400 HTTP 
+94.153.169.22:59177 Ukraine  Lviv  280 HTTP 
+187.60.243.1:4145 Brazil  Caruaru  1540 SOCKS4 
+187.44.64.218:44550 Brazil  Ipameri  1360 SOCKS4 
+187.60.240.129:4145 Brazil  Ipojuca  1520 SOCKS4 
+187.60.252.185:4145 Brazil  Itabaiana  1500 SOCKS4 
+187.60.214.94:4145 Brazil  Ampere  1360 SOCKS4 
+187.60.214.201:4145 Brazil  Ampere  1420 SOCKS4 
+187.60.214.158:4145 Brazil  Ampere  1400 SOCKS4 
+187.60.214.121:4145 Brazil  Ampere  1400 SOCKS4 
+187.33.160.252:4145 Brazil  Dionisio Cerqueira 1480 SOCKS4 
+187.45.113.12:4145 Brazil  Santa Cruz do Sul 1380 SOCKS4 
+187.44.87.154:4145 Brazil  Canoas  1400 SOCKS4 
+187.60.215.214:4145 Brazil  Ampere  1400 SOCKS4 
+187.60.215.154:4145 Brazil  Ampere  1400 SOCKS4 
+187.108.21.10:4145 Brazil  Irai  1480 SOCKS4 
+187.60.249.18:4145 Brazil  Carpina  1480 SOCKS4 
+187.60.215.146:4145 Brazil  Ampere  1500 SOCKS4 
+187.60.215.226:4145 Brazil  Ampere  1400 SOCKS4 
+187.60.214.54:4145 Brazil  Ampere  1400 SOCKS4 
+187.189.26.14:50031 Mexico  Campeche  1160 SOCKS4 
+187.44.148.102:57675 Brazil  Dias davila 1240 SOCKS4 
+187.243.251.110:44350 Mexico  Salamanca  1100 SOCKS4 
+187.58.131.10:4145 Brazil  Rio de Janeiro 1340 SOCKS4 
+187.44.254.62:4145 Brazil  Camacari  1300 SOCKS4 
+187.36.136.85:4145 Brazil  Vila Velha 1320 SOCKS4 
+187.191.25.86:51327 Mexico  Tijuana  1020 SOCKS4 
+187.190.67.103:4145 Mexico   1100 SOCKS4 
+187.190.67.104:4145 Mexico   1080 SOCKS4 
+187.49.197.14:4145 Brazil  Campestre  1200 SOCKS4 
+187.44.192.110:4145 Brazil  Aratuipe  1280 SOCKS4 
+187.44.166.86:4145 Brazil  Lauro de Freitas 1240 SOCKS4 
+187.33.254.226:4145 Brazil  Campina Grande 1100 SOCKS4 
+187.18.211.20:4145 Brazil  Fortaleza  1380 SOCKS4 
+187.18.202.212:4145 Brazil  Fortaleza  1320 SOCKS4 
+187.176.123.2:4145 Mexico  Mexico City 1020 SOCKS4 
+187.60.212.76:4145 Brazil  Ampere  1460 SOCKS4 
+187.188.168.28:4145 Mexico  Oaxaca City 1060 SOCKS4 
+187.45.116.42:4145 Brazil  Romelandia  2480 SOCKS4 
+1.179.183.109:8080 Thailand   960 HTTP 
+187.60.208.169:4145 Brazil  Pato Branco 1440 SOCKS4 
+1.186.193.74:39658 India  Kolkata  3360 SOCKS4 
+187.32.200.237:38160 Brazil  Matias Barbosa 1360 SOCKS4 
+187.32.58.98:51327 Brazil  Campinas  1320 SOCKS4 
+187.60.221.1:4145 Brazil  Itapejara  1380 SOCKS4 
+187.60.214.70:4145 Brazil  Ampere  1460 SOCKS4 
+187.60.214.209:4145 Brazil  Ampere  1380 SOCKS4 
+187.60.213.190:4145 Brazil  Ampere  1380 SOCKS4 
+187.49.16.62:4145 Brazil  Santa Teresa 1460 SOCKS4 
+187.44.0.31:4145 Brazil  Montes Claros 1340 SOCKS4 
+187.19.48.253:4145 Brazil  Sao Fidelis 1320 SOCKS4 
+187.60.220.57:4145 Brazil  Itapejara  1400 SOCKS4 
+187.60.222.218:4145 Brazil  Itapejara  1380 SOCKS4 
+187.60.215.222:4145 Brazil  Ampere  1460 SOCKS4 
+187.60.253.38:4145 Brazil  Itabaiana  1500 SOCKS4 
+187.60.222.74:4145 Brazil  Itapejara  1400 SOCKS4 
+187.60.215.98:4145 Brazil  Ampere  1420 SOCKS4 
+187.60.215.94:4145 Brazil  Ampere  1420 SOCKS4 
+187.60.215.138:4145 Brazil  Ampere  1460 SOCKS4 
+187.60.213.135:4145 Brazil  Ampere  1460 SOCKS4 
+187.60.211.54:4145 Brazil  Ampere  1400 SOCKS4 
+187.60.222.26:4145 Brazil  Itapejara  1420 SOCKS4 
+187.60.210.194:4145 Brazil  Dois Vizinhos 1480 SOCKS4 
+187.188.166.235:30614 Mexico  Puebla City 1060 SOCKS4 
+187.188.40.219:45997 Mexico  Guadalajara  1060 SOCKS4 
+187.19.62.7:42056 Brazil  Campos dos Goytacazes 1300 SOCKS4 
+187.177.30.154:4145 Mexico  Mexico City 940 SOCKS4 
+187.189.66.196:4145 Mexico  Valle de Santiago 1000 SOCKS4 
+187.253.190.131:4145 Mexico  Playa del Carmen 1260 SOCKS4 
+187.19.48.1:4145 Brazil  Sao Fidelis 1280 SOCKS4 
+187.19.127.178:4145 Brazil  Sape  1140 SOCKS4 
+187.190.106.132:4145 Mexico  Tlalpan  1080 SOCKS4 
+187.167.57.27:4145 Mexico  Mexico City 960 SOCKS4 
+1.10.186.171:41465 Thailand   2540 SOCKS4 
+1.10.188.20:56878 Thailand   1580 SOCKS4 
+1.179.201.153:30457 Thailand   1240 SOCKS4 
+1.179.146.49:30908 Thailand   1280 SOCKS4 
+1.179.183.61:41123 Thailand   1220 SOCKS4 
+1.179.173.249:30746 Thailand   1260 SOCKS4 
+1.10.189.62:41725 Thailand   1540 SOCKS4 
+1.10.188.78:55214 Thailand   1580 SOCKS4 
+1.10.187.225:60019 Thailand   1640 SOCKS4 
+1.10.186.245:59744 Thailand   1540 SOCKS4 
+1.10.188.8:54388 Thailand   1640 SOCKS4 
+1.179.196.65:4145 Thailand   1240 SOCKS4 
+1.10.185.91:4145 Thailand  Bangkok  1480 SOCKS4 
+1.10.185.101:4145 Thailand  Bangkok  1480 SOCKS4 
+1.10.185.99:4145 Thailand  Bangkok  1480 SOCKS4 
+1.10.185.103:4145 Thailand  Bangkok  1480 SOCKS4 
+1.1.174.212:4145 Thailand  Chiang Mai 1060 SOCKS4 
+1.186.40.2:39651 India  Mumbai  920 SOCKS4 
+1.10.188.102:51240 Thailand   1720 SOCKS4 
+1.10.187.158:37926 Thailand   1580 SOCKS4 
+1.186.193.9:39658 India  Bengaluru  2220 SOCKS4 
+1.179.201.113:30713 Thailand   1300 SOCKS4 
+1.179.172.45:31225 Thailand   1300 SOCKS4 
+1.179.156.249:31226 Thailand   1300 SOCKS4 
+1.179.203.89:44534 Thailand   1300 SOCKS4 
+1.179.180.17:39260 Thailand   1260 SOCKS4 
+1.179.158.165:42885 Thailand   1260 SOCKS4 
+1.10.186.121:36143 Thailand   1520 SOCKS4 
+1.10.188.29:37039 Thailand   1560 SOCKS4 
+1.10.187.55:46475 Thailand   1640 SOCKS4 
+1.10.187.156:44159 Thailand   1580 SOCKS4 
+1.179.157.241:42637 Thailand   1280 SOCKS4 
+1.10.186.181:38971 Thailand   1580 SOCKS4 
+1.10.186.158:57811 Thailand   1540 SOCKS4 
+1.179.198.226:56428 Thailand   1260 SOCKS4 
+1.179.145.74:51776 Thailand   1300 SOCKS4 
+1.10.185.105:4145 Thailand  Bangkok  1500 SOCKS4 
+1.10.185.131:4145 Thailand  Bangkok  1480 SOCKS4 
+1.10.185.115:4145 Thailand  Bangkok  1480 SOCKS4 
+1.10.185.104:4145 Thailand  Bangkok  1480 SOCKS4 
+1.10.185.129:4145 Thailand  Bangkok  1480 SOCKS4 
+1.179.180.98:4145 Thailand   1260 SOCKS4 
+1.10.138.39:4145 Thailand   1020 SOCKS4 
+1.1.223.99:4145 Thailand  Nakhon Pathom 1020 SOCKS4 
+1.1.181.217:4145 Thailand  Maha Sarakham 1020 SOCKS4 
+1.0.133.44:4145 Thailand  Lopburi  1000 SOCKS4 
+1.179.206.193:61810 Thailand   1040 SOCKS4 
+1.186.151.206:43192 India  Bengaluru  1100 SOCKS4 
+1.186.40.9:39651 India  Mumbai  900 SOCKS4 
+86.57.219.184:23500 Belarus   5100 HTTP 
+185.158.218.29:53281 Belarus  Minsk  5020 HTTP 
+187.109.56.101:20183 Brazil  Nepomuceno  3540 HTTP 
+93.125.120.30:42099 Belarus   1360 HTTP 
+186.47.41.146:53281 Ecuador  Quito  4460 HTTP 
+86.57.223.177:41096 Belarus   1300 HTTP 
+86.57.170.111:35693 Belarus  Minsk  500 HTTP 
+178.124.157.226:51622 Belarus  Minsk  200 HTTP 
+91.149.180.96:35833 Belarus  Minsk  260 HTTP 
+187.111.90.89:53281 Brazil  Recife  1060 HTTP 
+86.57.183.106:44106 Belarus   260 HTTP 
+186.226.190.203:32912 Brazil  Serrinha  4240 HTTP 
+37.17.38.196:53281 Belarus  Minsk  220 HTTP 
+186.96.255.244:8080 Honduras   1380 HTTP 
+185.49.58.88:56006 Italy  Viterbo  2300 HTTP 
+191.102.92.90:8181 Colombia   5100 HTTP 
+187.108.20.112:4145 Brazil  Santo Augusto 1600 SOCKS4 
+177.66.255.175:34888 Brazil  Andrelandia  1600 HTTP 
+168.205.87.173:31398 Brazil  Formiga  1700 HTTP 
+186.5.221.105:4145 Argentina  Huinca Renanco 1580 SOCKS4 
+187.1.58.11:4145 Brazil  Ouro Preto 2300 SOCKS4 
+187.108.133.11:4145 Brazil  Sao Goncalo 1360 SOCKS4 
+187.111.124.102:4145 Brazil   1400 SOCKS4 
+187.111.192.222:43250 Brazil  Santo Estevao 1300 SOCKS4 
+187.120.240.186:4145 Brazil  Cabo Verde 1240 SOCKS4 
+186.67.127.51:40319 Chile  Nueva Imperial 1420 SOCKS4 
+186.47.80.10:39770 Ecuador   1160 SOCKS4 
+178.128.105.249:8080 Singapore  Singapore  880 HTTP 
+186.67.224.157:4145 Chile  Cabildo  1340 SOCKS4 
+181.143.10.246:57932 Colombia  Rionegro  920 HTTP 
+148.69.95.42:44516 Portugal  Estoril  1140 HTTP 
+187.123.56.46:4145 Brazil  Teresina  1380 SOCKS4 
+186.67.85.253:4145 Chile  Rancagua  1400 SOCKS4 
+186.67.85.252:4145 Chile  Rancagua  1380 SOCKS4 
+187.120.214.34:4145 Brazil  Bady Bassitt 1260 SOCKS4 
+87.112.255.248:58835 United Kingdom  Warrington  5100 SOCKS4 
+187.0.15.105:4145 Brazil  Guapore  1280 SOCKS4 
+186.47.226.226:4145 Ecuador   3800 SOCKS4 
+187.121.198.194:4145 Brazil  Santa Cruz das Palmeiras 1400 SOCKS4 
+187.11.115.48:4145 Brazil  Osasco  1460 SOCKS4 
+187.109.97.49:4145 Brazil  Pato Branco 1400 SOCKS4 
+187.109.101.129:4145 Brazil  Vitorino  1400 SOCKS4 
+187.102.96.72:4145 Brazil   1200 SOCKS4 
+187.1.32.69:4145 Brazil  Ze Doca 1200 SOCKS4 
+187.121.198.86:4145 Brazil  Santa Cruz das Palmeiras 1260 SOCKS4 
+187.121.198.58:4145 Brazil  Santa Cruz das Palmeiras 1360 SOCKS4 
+187.109.99.70:4145 Brazil  Pato Branco 1400 SOCKS4 
+187.109.99.6:4145 Brazil  Pato Branco 1420 SOCKS4 
+187.109.99.118:4145 Brazil  Pato Branco 1380 SOCKS4 
+187.109.101.100:4145 Brazil  Vitorino  1380 SOCKS4 
+186.74.254.38:4145 Panama  Panama City 1100 SOCKS4 
+103.129.194.1:33691 India   3240 HTTP 
+151.106.63.165:1080 France   300 HTTP 
+151.106.58.36:1080 France   280 HTTP 
+187.110.236.17:4145 Brazil  Fortaleza  1000 SOCKS4 
+186.74.221.210:4145 Panama  Panama City 1220 SOCKS4 
+187.162.191.119:4145 Mexico  Mexico City 960 SOCKS4 
+187.120.240.174:4145 Brazil  Muzambinho  1240 SOCKS4 
+187.120.17.28:4145 Brazil  Belford Roxo 1240 SOCKS4 
+187.103.227.17:4145 Brazil  Tapejara  1300 SOCKS4 
+109.200.156.102:8080 Ukraine  Simferopol  220 HTTP 
+187.102.71.1:4145 Brazil  Pindorama  1300 SOCKS4 
+187.121.198.90:4145 Brazil  Santa Cruz das Palmeiras 1280 SOCKS4 
+143.208.79.223:8080 Brazil  Porto Alegre 3340 HTTP 
+188.35.29.6:58111 Russian Federation  Dolgoprudnyy  4820 HTTP 
+182.160.117.130:53281 Bangladesh  Dhaka  1720 HTTP 
+103.106.101.25:44471 India  Nagpur  1260 SOCKS4 
+140.227.210.165:3128 Japan   1220 HTTP 
+63.249.67.70:53281 United States  Santa Cruz 3120 HTTP 
+190.104.195.210:53281 Argentina  Federal  1280 HTTP 
+187.109.103.204:4145 Brazil  Pato Branco 1400 SOCKS4 
+187.108.23.167:4145 Brazil  Irai  1460 SOCKS4 
+187.103.15.17:40559 Brazil  Jacobina  1400 SOCKS4 
+186.86.198.32:35305 Colombia  Barranquilla  1120 SOCKS4 
+187.108.112.147:60930 Brazil  Boa Esperanca 1320 SOCKS4 
+187.115.172.97:58858 Brazil  Campina Grande 1460 SOCKS4 
+187.1.43.26:45533 Brazil   1480 SOCKS4 
+186.47.85.106:57939 Ecuador  Quito  1160 SOCKS4 
+186.67.224.155:4145 Chile  Santiago  1400 SOCKS4 
+187.110.64.250:4145 Brazil  Paulo Jacinto 1460 SOCKS4 
+124.41.240.76:23500 Nepal   900 HTTP 
+190.81.162.134:53281 Peru  Lima  1000 HTTP 
+170.79.176.114:4145 Brazil  Patos  3620 SOCKS4 
+187.16.37.68:4145 Brazil   1420 SOCKS4 
+187.109.97.5:4145 Brazil  Pato Branco 1400 SOCKS4 
+187.109.97.238:4145 Brazil  Pato Branco 1400 SOCKS4 
+187.109.245.230:4145 Brazil  Aracruz  1360 SOCKS4 
+187.109.111.1:4145 Brazil  Pato Branco 1380 SOCKS4 
+187.109.110.97:4145 Brazil  Pato Branco 1380 SOCKS4 
+187.108.26.74:4145 Brazil  Frederico Westphalen 1500 SOCKS4 
+187.102.47.59:4145 Brazil  Braco do Norte 1340 SOCKS4 
+187.1.57.242:4145 Brazil  Ouro Preto 1280 SOCKS4 
+187.1.32.253:4145 Brazil  Ze Doca 1200 SOCKS4 
+187.1.32.102:4145 Brazil  Ze Doca 1280 SOCKS4 
+187.121.199.114:4145 Brazil  Santa Cruz das Palmeiras 1420 SOCKS4 
+187.109.99.182:4145 Brazil  Pato Branco 1460 SOCKS4 
+187.109.99.134:4145 Brazil  Pato Branco 1440 SOCKS4 
+187.109.97.218:4145 Brazil  Pato Branco 1400 SOCKS4 
+187.109.109.78:4145 Brazil  Pato Branco 1420 SOCKS4 
+187.109.109.118:4145 Brazil  Pato Branco 1400 SOCKS4 
+187.108.24.5:4145 Brazil  Frederico Westphalen 1480 SOCKS4 
+187.111.192.214:60212 Brazil  Santo Estevao 1360 SOCKS4 
+186.81.53.28:38609 Colombia  El Cerrito 1080 SOCKS4 
+109.87.194.160:56221 Ukraine  Kharkiv  380 HTTP 
+82.79.68.143:44994 Romania  Cluj-Napoca  700 HTTP 
+151.106.58.40:1080 France   280 HTTP 
+186.72.117.226:4145 Panama  Panama City 1080 SOCKS4 
+186.72.74.70:4145 Panama  Panama City 1060 SOCKS4 
+187.162.172.105:4145 Mexico  Mexico City 960 SOCKS4 
+187.111.85.173:4145 Brazil  Olinda  1080 SOCKS4 
+176.36.214.139:50614 Ukraine  Kyiv  180 HTTP 
+200.127.185.38:4145 Argentina  Punta Alta 1480 SOCKS4 
+103.12.135.78:8080 India  Noida  1860 HTTP 
+119.15.93.90:42322 Cambodia  Phnom Penh 1640 HTTP 
+50.7.106.240:48823 United States  Los Angeles 1000 SOCKS4 
+140.227.210.173:3128 Japan   1220 HTTP 
+202.124.98.222:51129 New Zealand   1740 SOCKS4 
+168.90.89.210:4145 Brazil  Paraibano  1400 SOCKS4 
+181.211.14.238:31501 Ecuador  Santo Domingo de los Colorados 1140 SOCKS4 
+170.79.176.20:4145 Brazil  Patos  1260 SOCKS4 
+116.254.112.243:34885 Indonesia   1200 SOCKS4 
+222.124.26.154:61436 Indonesia   1060 SOCKS4 
+191.191.211.101:4145 Brazil  Cascavel  1400 SOCKS4 
+124.41.211.100:23500 Nepal   960 HTTP 
+168.90.145.6:4145 Brazil  Senhor do Bonfim 1440 SOCKS4 
+168.181.196.36:4145 Brazil  Anchieta  1280 SOCKS4 
+138.197.157.44:1080 Canada  Toronto  1260 SOCKS5 
+185.136.166.245:1080 Germany   280 HTTP 
+185.190.155.100:34023 Serbia   3820 HTTP 
+200.6.168.86:60775 Colombia  Bucaramanga  1040 SOCKS4 
+185.212.126.207:39591 Spain  Lucena del Puerto 560 SOCKS4 
+95.137.240.3:35632 Georgia   1180 HTTP 
+98.25.157.112:64312 United States  Myrtle Beach 860 SOCKS4 
+85.196.183.162:8080 Bulgaria  Preslav  420 HTTP 
+67.205.146.77:1080 United States  North Bergen 1160 SOCKS5 
+185.136.166.234:1080 Germany   280 HTTP 
+212.74.218.66:40254 Russian Federation   400 SOCKS4 
+87.121.0.199:4145 Bulgaria   400 SOCKS4 
+87.97.174.232:4145 Bulgaria  Burgas  460 SOCKS4 
+212.42.116.29:4145 Kyrgyzstan   360 SOCKS4 
+212.5.161.194:4145 Russian Federation  Moscow  100 SOCKS4 
+87.229.47.237:4145 Hungary  Budapest  300 SOCKS4 
+138.219.111.72:4145 Brazil  Santo Antonio do Sudoeste 1540 SOCKS4 
+179.109.144.25:8080 Brazil  Alegre  1320 HTTP 
+197.159.23.174:40167 Cameroon   2000 SOCKS4 
+109.87.141.136:38947 Ukraine  Kharkiv  160 SOCKS4 
+190.151.94.2:46615 Chile  Santiago  1160 HTTP 
+88.255.101.247:8080 Turkey   1360 HTTP 
+101.255.51.30:3128 Indonesia  Jakarta  1000 HTTP 
+170.245.28.191:4145 Brazil   1840 SOCKS4 
+45.70.249.14:45506 Brazil  Pentecoste  1260 SOCKS4 
+182.19.43.93:58888 India  Howrah  1240 SOCKS4 
+168.181.145.106:4145 Brazil  Serra  1440 SOCKS4 
+138.99.93.227:4145 Brazil  Baturite  1260 SOCKS4 
+202.138.248.73:34360 Indonesia  Bandung  1140 SOCKS4 
+160.19.175.16:4145 Brazil  Rio de Janeiro 1220 SOCKS4 
+103.221.254.54:38768 Bangladesh  Dhaka  1100 SOCKS4 
+170.233.114.177:4145 Brazil   1480 SOCKS4 
+202.57.39.74:4145 Philippines  Marikina City 1480 SOCKS4 
+115.90.219.181:4145 Korea  Namyangju  1500 SOCKS4 
+45.228.4.46:4145 Brazil   1280 SOCKS4 
+168.205.176.9:4145 Brazil  Pelotas  1420 SOCKS4 
+202.162.222.166:4145 Indonesia  Depok  1280 SOCKS4 
+165.90.60.73:4145 South Africa  Somerset West 1120 SOCKS4 
+170.238.101.58:4145 Brazil  Jaboatao dos Guararapes 1120 SOCKS4 
+202.91.86.81:40411 India  Ichchapuram  980 SOCKS4 
+185.136.166.189:1080 Germany   300 HTTP 
+151.106.63.166:1080 France   300 HTTP 
+12.68.74.242:54321 United States  Houston  940 SOCKS4 
+202.51.124.126:4145 Indonesia  Jakarta  1060 SOCKS4 
+202.51.98.114:4145 Indonesia  Depok  1080 SOCKS4 
+170.79.176.216:4145 Brazil  Patos  1400 SOCKS4 
+168.205.244.233:4145 Brazil  Campinas  2460 SOCKS4 
+95.82.255.90:8080 Russian Federation  Yekaterinburg  520 HTTP 
+46.118.33.132:51028 Ukraine  Zaporizhia  220 HTTP 
+96.85.59.2:64312 United States  Murfreesboro  780 SOCKS4 
+90.181.236.217:54495 Czech Republic  Ostrava  320 SOCKS4 
+212.103.145.90:4145 Slovenia  Ljubljana  320 SOCKS4 
+181.188.166.82:8080 Bolivia  La Paz 2580 HTTP 
+188.115.185.129:8080 Ukraine  Odesa  2380 HTTP 
+95.79.44.89:46958 Russian Federation  Nizhniy Novgorod 120 SOCKS4 
+86.110.30.146:32645 Russian Federation  Moscow  100 SOCKS4 
+113.130.126.232:55360 Cambodia   1340 HTTP 
+121.139.218.165:31409 Korea  Ansan-si  1060 HTTP 
+46.8.243.53:42332 Russian Federation  Khasavyurt  320 SOCKS4 
+185.160.60.36:52990 Ukraine  Kharkiv  160 SOCKS4 
+43.247.33.238:4145 Indonesia   1220 SOCKS4 
+85.90.100.62:4145 Russian Federation   100 SOCKS4 
+181.211.186.18:8080 Ecuador  Santo Domingo de los Colorados 1140 HTTP 
+197.210.129.142:80 Nigeria  Port Harcourt 1120 HTTP 
+138.219.108.202:4145 Brazil  Santo Antonio do Sudoeste 1540 SOCKS4 
+116.212.154.58:4145 Cambodia  Phnom Penh 1720 SOCKS4 
+177.185.93.77:8080 Brazil  Janauba  4220 HTTP 
+131.161.45.39:53933 Brazil  Serra do Salitre 1420 SOCKS4 
+168.197.252.162:31420 Brazil  Santana do Livramento 1520 SOCKS4 
+131.72.205.94:59086 Argentina  Devoto  3420 HTTP 
+203.83.162.70:13629 Bangladesh  Dhaka  2220 SOCKS4 
+168.90.29.44:55332 Brazil  Treze Tilias 1600 SOCKS4 
+124.41.240.22:23500 Nepal   880 HTTP 
+193.239.101.74:32231 Poland  Kobylnica  260 HTTP 
+170.79.178.204:4145 Brazil  Patos  1480 SOCKS4 
+202.78.205.170:4145 Indonesia  Jakarta  1140 SOCKS4 
+138.97.243.92:4145 Brazil  Cajamar  1320 SOCKS4 
+203.80.170.68:4145 Cambodia  Phnom Penh 1320 SOCKS4 
+185.16.34.251:35635 Poland  Linki  300 SOCKS4 
+65.49.137.16:40477 United States  Wenatchee  1000 SOCKS4 
+95.105.89.151:53906 Russian Federation  Salavat  1980 SOCKS4 
+41.79.187.7:59785 Tanzania  Zanzibar  1340 SOCKS4 
+168.195.196.14:53496 Brazil  Rio do Sul 1520 SOCKS4 
+91.137.189.15:53430 Hungary  Tiszakecske  300 HTTP 
+157.119.186.78:47252 Bangladesh  Magura District 1240 SOCKS4 
+201.218.17.202:4145 Ecuador  Quito  1240 SOCKS4 
+202.62.13.66:4145 Indonesia  Jakarta  1120 SOCKS4 
+168.205.236.253:4145 Brazil   1320 SOCKS4 
+134.236.243.28:4145 Thailand  Bangkok  1200 SOCKS4 
+103.228.118.145:4145 Indonesia  Depok  1180 SOCKS4 
+202.52.4.158:4145 Thailand   1340 SOCKS4 
+167.249.14.30:4145 Brazil   1440 SOCKS4 
+137.74.49.244:1080 France   280 HTTP 
+45.55.16.10:1080 United States  San Francisco 1200 SOCKS5 
+209.150.229.1:50755 United States   740 SOCKS4 
+138.197.58.55:1080 United States  Clifton  780 SOCKS5 
+85.15.190.154:58146 Russian Federation  Tyumen  300 SOCKS4 
+94.66.128.90:4145 Greece  Athens  600 SOCKS4 
+89.17.37.218:35898 Russian Federation  Moscow  100 SOCKS4 
+212.34.53.126:45551 Russian Federation  Moscow  100 SOCKS4 
+212.126.124.130:61221 Iraq  Sulaymanah  340 SOCKS4 
+88.84.209.96:51254 Russian Federation  Lytkarino  100 SOCKS4 
+212.200.80.153:30231 Serbia  Lazarevac  400 SOCKS4 
+213.6.229.178:61221 Palestinian Territory   600 SOCKS4 
+89.249.248.178:4145 Russian Federation  Moscow  80 SOCKS4 
+157.25.23.231:4145 Poland   320 SOCKS4 
+159.224.220.63:47386 Ukraine  Kyiv  160 SOCKS4 
+119.15.91.137:50712 Cambodia  Phnom Penh 2560 HTTP 
+170.150.9.65:4145 Argentina  San Luis 1540 SOCKS4 
+168.196.14.3:4145 Brazil   1340 SOCKS4 
+138.99.69.12:4145 Brazil  Belford Roxo 1420 SOCKS4 
+201.48.69.197:4145 Brazil  Rio de Janeiro 1360 SOCKS4 
+177.86.146.218:4145 Brazil  Rio Pardo de Minas 1320 SOCKS4 
+137.59.162.169:4145 Indonesia   2200 SOCKS4 
+168.205.87.202:4145 Brazil  Formiga  1340 SOCKS4 
+170.231.48.138:4145 Brazil  Amapora  1360 SOCKS4 
+168.181.145.101:4145 Brazil  Serra  1500 SOCKS4 
+96.9.75.231:4145 Cambodia   1200 SOCKS4 
+154.117.159.218:1080 South Africa  Centurion  1260 SOCKS4 
+190.14.249.138:999 Colombia   4040 HTTP 
+118.97.180.131:51314 Indonesia  Tanjung Pinang 940 SOCKS4 
+41.160.237.250:50261 South Africa  Johannesburg  1160 SOCKS4 
+150.109.105.160:1180 Singapore   1780 SOCKS4 
+203.192.208.87:30951 India  Bengaluru  1020 SOCKS4 
+168.194.201.46:4145 Brazil  Ilha Solteira 1300 SOCKS4 
+206.192.226.90:39593 United States  Hines  1140 SOCKS4 
+202.158.48.174:4145 Indonesia  Jakarta  1140 SOCKS4 
+203.201.173.90:4145 Indonesia   1340 SOCKS4 
+170.79.177.124:4145 Brazil  Patos  1180 SOCKS4 
+170.79.176.60:4145 Brazil  Patos  1220 SOCKS4 
+118.131.21.125:4145 Korea  Seoul  1520 SOCKS4 
+213.16.81.182:35559 Hungary  Szerencs  420 SOCKS4 
+202.131.249.56:36151 Mongolia  Ulan Bator 800 SOCKS4 
+87.120.246.53:30625 Bulgaria   440 SOCKS4 
+209.198.58.254:64312 United States  Montrose  900 SOCKS4 
+68.47.94.179:64312 United States  Hopkins  860 SOCKS4 
+216.154.201.132:54321 United States   760 SOCKS4 
+158.46.43.137:61851 Russian Federation  Novokuznetsk  340 SOCKS4 
+117.242.154.73:33889 India  Shillong  1660 HTTP 
+159.224.44.46:39360 Ukraine  Kharkiv  160 SOCKS4 
+85.31.248.140:32081 Poland   300 SOCKS4 
+79.101.33.118:4145 Serbia   380 SOCKS4 
+186.225.148.234:4145 Brazil  Fernandopolis  1620 SOCKS4 
+210.245.51.51:4145 Vietnam  Hanoi  1780 SOCKS4 
+212.56.194.238:4145 Moldova  Chisinau  260 SOCKS4 
+88.135.133.106:4145 Latvia  Riga  180 SOCKS4 
+68.251.250.193:8080 United States  City of Saint Peters 1820 HTTP 
+186.233.180.70:4145 Brazil   1420 SOCKS4 
+138.97.145.142:30923 Brazil   1480 SOCKS4 
+195.225.144.27:38331 Ukraine  Poltava  960 HTTP 
+138.36.106.251:51585 Brazil  Porto Alegre 1300 SOCKS4 
+117.239.218.227:3128 India   800 HTTP 
+143.202.8.1:4145 Brazil   1480 SOCKS4 
+170.80.244.97:4145 Brazil  Sao Simao 1440 SOCKS4 
+101.255.40.130:37360 Indonesia  Jakarta  2140 SOCKS4 
+170.233.114.170:4145 Brazil   1600 SOCKS4 
+170.233.114.176:4145 Brazil   1520 SOCKS4 
+114.199.112.170:23500 Indonesia  Jakarta  1060 HTTP 
+170.239.248.153:4145 Brazil  Barauna  1300 SOCKS4 
+138.97.236.5:1080 Argentina  Rio Primero 1500 SOCKS4 
+202.125.71.93:4145 Bangladesh   1220 SOCKS4 
+170.81.140.110:30747 Mexico  Aguascalientes  1120 SOCKS4 
+178.150.106.110:47352 Ukraine  Kharkiv  400 HTTP 
+104.248.161.99:8080 United Kingdom  London  280 HTTP 
+123.21.26.84:4145 Vietnam  Ho Chi Minh City 1120 SOCKS4 
+194.169.164.3:57562 Albania   400 HTTP 
+203.160.63.117:52905 Indonesia   1160 SOCKS4 
+151.106.58.135:1080 France   480 HTTP 
+143.208.111.55:45728 Brazil  Itaocara  1220 SOCKS4 
+116.193.218.18:34344 Bangladesh   1060 SOCKS4 
+41.33.22.186:8080 Egypt   540 HTTP 
+96.89.102.21:54321 United States  Portland  1140 SOCKS4 
+210.210.154.3:1080 Indonesia  Jakarta  1200 SOCKS4 
+170.79.178.30:4145 Brazil  Patos  1260 SOCKS4 
+170.79.178.52:4145 Brazil  Patos  1280 SOCKS4 
+170.79.178.135:4145 Brazil  Patos  1280 SOCKS4 
+170.79.177.103:4145 Brazil  Patos  1320 SOCKS4 
+170.79.176.188:4145 Brazil  Patos  1220 SOCKS4 
+201.238.191.35:4145 Ecuador  Cuenca  1140 SOCKS4 
+170.244.4.14:4145 Brazil  Mococa  1260 SOCKS4 
+201.150.36.162:4145 Mexico  Naucalpan  1160 SOCKS4 
+103.214.200.6:59008 Bangladesh  Chittagong  3380 HTTP 
+124.41.211.53:45903 Nepal  Kathmandu  2560 HTTP 
+209.150.227.225:50755 United States  Ithaca  860 SOCKS4 
+45.112.0.43:4145 India  Pune  860 SOCKS4 
+213.59.141.114:4145 Russian Federation  Vladivostok  760 SOCKS4 
+207.164.159.99:4145 Canada  Etobicoke  740 SOCKS4 
+185.22.172.94:1448 Russian Federation  St Petersburg 160 HTTP 
+165.16.54.221:31618 Libyan Arab Jamahiriya   1480 SOCKS4 
+162.243.107.43:1080 United States  New York 780 SOCKS5 
+85.113.48.148:8080 Russian Federation  Samara  180 HTTP 
+134.249.137.226:41859 Ukraine  Pesochin  160 SOCKS4 
+145.255.28.122:4145 Russian Federation  Ufa  260 SOCKS4 
+140.227.205.7:3128 Japan   1240 HTTP 
+181.225.47.211:52913 Venezuela  Caracas  1040 HTTP 
+167.114.96.126:80 Canada  Montreal  1320 HTTP 
+67.198.99.138:60810 United States  Little Elm 740 HTTP 
+166.62.39.118:23800 United States  Scottsdale  5100 SOCKS4 
+62.112.8.167:1080 Netherlands   280 HTTP 
+151.106.63.170:1080 France   300 HTTP 
+151.106.63.162:1080 France   300 HTTP 
+151.106.58.136:1080 France   420 HTTP 
+212.170.219.26:3128 Spain   440 HTTP 
+192.169.218.103:2814 United States  Scottsdale  3980 SOCKS4 
+212.25.36.55:8085 Bulgaria   300 HTTP 
+151.106.58.35:1080 France   360 HTTP 
+116.212.157.237:58252 Cambodia  Phnom Penh 1480 HTTP 
+45.116.2.17:4145 India  Mormugao  3360 SOCKS4 
+192.169.218.103:6646 United States  Scottsdale  2620 SOCKS4 
+181.113.123.98:36494 Ecuador  Quito  1000 HTTP 
+200.37.231.66:8080 Peru   980 HTTP 
+51.255.115.228:1080 France   280 HTTP 
+185.136.166.187:1080 Germany   280 HTTP 
+132.148.143.136:33157 United States  Scottsdale  4100 SOCKS4 
+87.121.46.42:41894 Bulgaria  Sofia  480 HTTP 
+190.2.137.69:1080 Netherlands  Naaldwijk  340 HTTP 
+124.41.211.101:23500 Nepal   860 HTTP 
+202.124.120.25:4145 New Zealand  Christchurch  1900 SOCKS4 
+210.245.51.20:4145 Vietnam  Hanoi  1840 SOCKS4 
+190.102.154.131:4145 Peru   1180 SOCKS4 
+167.249.78.22:4145 Brazil   1140 SOCKS4 
+144.76.178.73:1080 Germany   1580 SOCKS4 
+168.232.198.206:44522 Brazil  Santa Luzia 1260 SOCKS4 
+168.194.188.183:4145 Brazil  Gurupi  1340 SOCKS4 
+201.49.82.40:4145 Brazil  Sao Jose do Rio Preto 1480 SOCKS4 
+138.219.196.220:4145 Brazil  Duque de Caxias 1460 SOCKS4 
+170.239.96.2:4145 Brazil  Coronel Fabriciano 1520 SOCKS4 
+168.90.89.238:4145 Brazil  Agua Branca 1140 SOCKS4 
+168.181.87.21:4145 Brazil  Sobral  1540 SOCKS4 
+170.238.254.146:4145 Mexico  Monterrey  1100 SOCKS4 
+103.198.172.3:39833 India  Delhi  960 SOCKS4 
+138.36.2.60:46694 Brazil  Fortaleza  1080 SOCKS4 
+195.200.244.8:43785 Ukraine  Chernivtsi  240 HTTP 
+50.204.243.114:54321 United States  Canonsburg  760 SOCKS4 
+207.96.205.209:4145 Canada  Sainte-Helene-de-Bagot  720 SOCKS4 
+138.36.1.73:4145 Brazil  Fortaleza  980 SOCKS4 
+201.20.100.54:4145 Brazil  Fortaleza  1040 SOCKS4 
+168.181.87.20:4145 Brazil  Sobral  1440 SOCKS4 
+80.109.152.77:33236 Austria   260 SOCKS4 
+149.255.112.194:50120 Russian Federation  St Petersburg 240 SOCKS4 
+134.249.151.4:54965 Ukraine  Uzhhorod  220 SOCKS4 
+91.213.209.202:61925 Ukraine   220 SOCKS4 
+213.207.37.202:44550 Albania  Tirana  500 SOCKS4 
+134.19.235.211:40209 Georgia  Tbilisi  500 SOCKS4 
+86.110.188.214:4145 Russian Federation   180 SOCKS4 
+88.102.21.59:4145 Czech Republic  Nove Veseli 420 SOCKS4 
+109.69.4.148:4145 Albania  Tirana  420 SOCKS4 
+179.108.83.9:4145 Brazil  Jaguariuna  1720 SOCKS4 
+64.13.147.156:30243 United States   1000 SOCKS4 
+159.224.194.220:49082 Ukraine  Dnipro  180 SOCKS4 
+213.170.101.102:34551 Russian Federation  St Petersburg 140 SOCKS4 
+88.199.34.8:4145 Poland   240 SOCKS4 
+212.46.251.150:4145 Russian Federation  Moscow  80 SOCKS4 
+95.86.206.65:8080 Russian Federation  Rybinsk  160 SOCKS4 
+138.97.10.146:4145 Brazil  Ampere  1420 SOCKS4 
+192.169.233.61:60344 United States  Scottsdale  1820 SOCKS4 
+203.99.131.241:48039 Indonesia  Tangerang  1140 SOCKS4 
+160.238.24.129:4145 Brazil  Paracambi  1260 SOCKS4 
+170.246.195.9:4145 Brazil  Paranhos  1240 SOCKS4 
+96.9.77.153:56510 Cambodia  Phnom Penh 1220 SOCKS4 
+45.235.87.22:41025 Brazil  Miracema  1320 SOCKS4 
+64.207.94.17:32688 United States   1000 SOCKS4 
+168.90.145.10:4145 Brazil  Jaguarari  1400 SOCKS4 
+64.192.234.98:32688 United States  Savannah  820 SOCKS4 
+143.202.10.254:4145 Brazil   1520 SOCKS4 
+160.19.172.32:4145 Brazil  Rio de Janeiro 1220 SOCKS4 
+64.203.238.232:64312 United States  Bluffton  820 SOCKS4 
+63.134.128.94:64312 United States  Terre Haute 800 SOCKS4 
+63.151.9.74:64312 United States   900 SOCKS4 
+138.36.3.30:4145 Brazil  Fortaleza  1060 SOCKS4 
+170.79.178.203:4145 Brazil  Patos  1560 SOCKS4 
+170.79.178.155:4145 Brazil  Patos  1280 SOCKS4 
+170.238.140.148:4145 Brazil   1500 SOCKS4 
+118.128.29.139:4145 Korea   1440 SOCKS4 
+170.239.248.91:4145 Brazil  Barauna  1120 SOCKS4 
+170.233.112.166:4145 Brazil   1340 SOCKS4 
+147.75.122.141:4145 Colombia  Mocoa  1060 SOCKS4 
+50.253.211.21:32100 United States  Charlottesville  760 SOCKS4 
+170.80.141.98:30969 Honduras   1000 SOCKS4 
+162.247.44.4:54321 United States  Williams  1020 SOCKS4 
+84.11.94.234:4145 Germany   5100 SOCKS4 
+88.204.167.186:54609 Kazakstan   160 SOCKS4 
+192.169.249.49:39039 United States  Scottsdale  1120 SOCKS4 
+192.169.140.100:63631 United States  Scottsdale  1120 SOCKS4 
+212.19.20.115:55544 Russian Federation  Khabarovsk  560 SOCKS4 
+23.224.82.115:1080 United States  Los Angeles 1000 SOCKS4 
+166.62.59.167:45914 United States  Scottsdale  1120 SOCKS4 
+64.13.147.155:30243 United States   980 SOCKS4 
+78.36.200.186:58820 Russian Federation  Svetlogorsk  200 SOCKS4 
+64.237.72.222:32688 United States  Prairieville  940 SOCKS4 
+74.132.135.120:55545 United States  Crestwood  1900 SOCKS4 
+213.147.102.122:32780 Croatia   380 SOCKS4 
+151.3.89.164:37355 Italy   400 SOCKS4 
+63.142.226.144:64312 United States  Rio Vista 1080 SOCKS4 
+92.51.92.213:4145 Georgia   480 SOCKS4 
+213.178.39.236:4153 Russian Federation  Tolyatti  200 SOCKS4 
+84.238.140.196:4145 Bulgaria  Sofia  300 SOCKS4 
+210.245.51.33:4145 Vietnam  Hanoi  1800 SOCKS4 
+82.141.165.43:4145 Hungary  Kalocsa  520 SOCKS4 
+170.245.31.4:4145 Brazil   1860 SOCKS4 
+212.156.86.130:4145 Turkey  Trabzon  580 SOCKS4 
+165.16.54.220:31618 Libyan Arab Jamahiriya   500 SOCKS4 
+166.62.83.129:44911 United States  Scottsdale  1120 SOCKS4 
+66.134.137.38:50878 United States  San Francisco 1040 SOCKS4 
+66.116.87.188:34712 United States  La Mirada 1060 SOCKS4 
+64.13.147.157:30243 United States   980 SOCKS4 
+72.217.158.195:1080 United States   1020 SOCKS4 
+85.30.233.79:40646 Russian Federation  Moscow  100 SOCKS4 
+170.246.0.89:58275 Brazil  Porto Alegre 1360 SOCKS4 
+170.83.215.114:4145 Brazil  Linhares  1360 SOCKS4 
+98.143.145.30:62353 United States  Los Angeles 980 SOCKS4 
+64.33.170.26:32688 United States   840 SOCKS4 
+65.184.200.184:39593 United States  Wilmington  780 SOCKS4 
+186.250.119.135:51327 Brazil  Teresina  2300 SOCKS4 
+65.124.17.155:39593 United States  Las Cruces 1220 SOCKS4 
+203.150.192.30:43826 Thailand   1340 SOCKS4 
+168.90.17.94:4145 Brazil  Sabaudia  1400 SOCKS4 
+170.79.176.140:4145 Brazil  Patos  1200 SOCKS4 
+170.150.237.118:4145 Brazil   1440 SOCKS4 
+168.181.105.182:4145 Brazil  Tanhacu  1420 SOCKS4 
+167.114.180.102:1080 Canada  Montreal  840 SOCKS4 
+216.144.230.233:15993 United States  Los Angeles 980 SOCKS4 
+66.103.174.65:43964 United States  Dassel  840 SOCKS4 
+66.103.173.241:49153 United States  Dassel  860 SOCKS4 
+64.27.10.80:32688 United States  Downey  980 SOCKS4 
+64.64.96.207:32688 United States  Pomeroy  860 SOCKS4 
+150.107.137.238:14880 Indonesia  Medan  1020 SOCKS4 
+64.233.157.246:32688 United States  Paragould  960 SOCKS4 
+94.247.62.165:39531 Russian Federation  Magadan  680 SOCKS4 
+64.251.31.168:64312 United States  Miami Beach 840 SOCKS4 
+138.122.51.76:51834 Brazil  Uberaba  1420 SOCKS4 
+202.57.132.76:4145 Thailand   1260 SOCKS4 
+162.221.181.27:64312 Puerto Rico  Barranquitas  1040 SOCKS4 
+65.158.205.182:54321 United States   840 SOCKS4 
+72.48.241.139:54321 United States  San Antonio 900 SOCKS4 
+122.248.38.49:4145 Indonesia   1100 SOCKS4 
+72.210.252.134:1080 United States   4940 SOCKS4 
+203.192.199.186:55857 India   800 SOCKS4 
+89.45.162.95:4145 Romania   580 SOCKS4 
+93.179.80.174:9080 Russian Federation  Moscow  780 SOCKS4 
+91.224.185.209:4145 Poland  Pawlowice  260 SOCKS4 
+92.115.128.193:4145 Moldova  Chisinau  200 SOCKS4 
+86.49.146.37:4145 Czech Republic  Prague  340 SOCKS4 
+81.177.73.7:4145 Russian Federation   260 SOCKS4 
+95.31.35.181:4145 Russian Federation  Krasnodar  680 SOCKS4 
+212.244.210.247:4145 Poland  Nowy Targ 300 SOCKS4 
+86.110.172.54:56701 Russian Federation  Rostov-on-Don  100 SOCKS4 
+178.57.101.235:34437 Russian Federation  Cherepovets  160 SOCKS4 
+134.17.26.192:43046 Belarus  Minsk  200 SOCKS4 
+212.3.155.202:43697 Russian Federation  Desnogorsk  120 SOCKS4 
+212.252.63.228:4153 Turkey  Istanbul  580 SOCKS4 
+213.6.49.114:54565 Palestinian Territory  Hebron  2860 HTTP 
+94.102.127.79:41501 Russian Federation  Moscow  100 SOCKS4 
+101.255.121.74:8080 Indonesia  Jakarta  2500 HTTP 
+45.6.136.38:53281 Brazil  Recife  2500 HTTP 
+140.227.203.209:60088 Japan   1220 HTTP 
+14.102.105.187:44460 India  Delhi  1120 HTTP 
+124.41.211.186:43523 Nepal  Kathmandu  860 HTTP 
+151.106.58.46:1080 France   500 HTTP 
+185.69.52.142:3128 Lithuania   140 HTTP 
+94.131.204.196:57952 Ukraine  Kyiv  480 HTTP 
+188.165.164.9:3128 France   300 HTTP 
+103.109.92.234:1080 Bangladesh   2580 SOCKS4 
+109.200.155.197:8080 Ukraine  Simferopol  2080 HTTP 
+64.13.147.158:30243 United States   1980 SOCKS4 
+103.124.180.2:8080 Bangladesh   3440 HTTP 
+103.12.145.126:60270 Malaysia   980 HTTP 
+178.128.21.47:8000 Singapore  Singapore  640 HTTP 
+118.91.187.158:9999 India  Giridih  2960 SOCKS4 
+113.164.79.177:46281 Vietnam  Da Lat 3500 HTTP 
+103.198.172.3:44392 India  Delhi  940 HTTP 
+122.200.48.66:4145 Indonesia   2060 SOCKS4 
+70.112.62.9:32940 United States  Austin  1740 SOCKS4 
+185.136.166.235:1080 Germany   280 HTTP 
+159.224.221.175:38089 Ukraine  Kyiv  300 HTTP 
+64.25.215.250:48324 United States  Ripton  720 SOCKS4 
+177.69.23.14:36262 Brazil  Pires do Rio 2640 HTTP 
+151.106.58.130:1080 France   300 HTTP 
+168.90.90.77:4145 Brazil  Bom Jesus 2920 SOCKS4 
+168.90.90.102:4145 Brazil  Bom Jesus 1240 SOCKS4 
+72.49.49.11:31034 United States   1220 SOCKS4 
+203.81.95.26:4145 Myanmar   1780 SOCKS4 
+177.43.160.224:8080 Brazil   1280 HTTP 
+103.241.227.118:6667 India  Dohad  3920 SOCKS4 
+98.172.253.135:1080 United States   1020 SOCKS4 
+64.118.100.76:32688 United States  Mariposa  1060 SOCKS4 
+68.186.167.196:32856 United States  Sunrise Beach 1420 SOCKS4 
+210.245.51.56:4145 Vietnam  Hanoi  1740 SOCKS4 
+103.16.61.134:8080 Cambodia   1380 HTTP 
+86.57.178.249:36173 Belarus   1140 SOCKS4 
+66.103.173.243:43964 United States  Dassel  840 SOCKS4 
+66.103.174.1:49153 United States  Dassel  860 SOCKS4 
+64.111.201.112:32688 United States  Weehawken  660 SOCKS4 
+64.111.35.218:32688 United States  Edina  820 SOCKS4 
+75.102.136.253:33150 United States  Morgantown  780 SOCKS4 
+96.238.18.138:52358 United States  Providence  720 SOCKS4 
+64.233.159.249:32688 United States  Paragould  1000 SOCKS4 
+97.87.160.98:39593 United States  Osage Beach 920 SOCKS4 
+75.143.101.95:33150 United States  Moody  860 SOCKS4 
+75.114.58.49:33150 United States  Birmingham  840 SOCKS4 
+70.89.199.109:64312 United States   860 SOCKS4 
+75.139.53.178:33150 United States  Leeds  880 SOCKS4 
+138.99.246.240:4145 Brazil  Cachoeiro de Itapemirim 1260 SOCKS4 
+170.233.52.27:4145 Brazil   1520 SOCKS4 
+70.88.209.53:64312 United States   840 SOCKS4 
+66.158.234.120:64312 United States  Orlando  840 SOCKS4 
+66.70.167.114:3128 Canada  Montreal  620 HTTP 
+170.80.36.9:4145 Brazil  Goias  1300 SOCKS4 
+190.128.180.114:4145 Paraguay  Luque  1640 SOCKS4 
+186.195.8.2:4145 Brazil  Riachao do Jacuipe 1500 SOCKS4 
+168.205.141.6:35355 Brazil  Angelim  1120 SOCKS4 
+163.53.149.202:51327 Bangladesh  Dhaka  1080 SOCKS4 
+96.9.69.133:42956 Cambodia  Phnom Penh 1200 SOCKS4 
+183.177.101.198:53281 Mongolia   1500 HTTP 
+207.68.240.247:38694 United States  New Albany 940 SOCKS4 
+151.106.58.138:1080 France   560 HTTP 
+132.255.178.18:4145 Brazil  Tailandia  1220 SOCKS4 
+185.44.231.2:34244 Armenia  Yerevan  300 HTTP 
+103.44.14.129:4145 India  Vizianagaram  1180 SOCKS4 
+72.55.115.178:64312 United States   860 SOCKS4 
+96.80.183.253:54321 United States  Nashville  840 SOCKS4 
+170.254.58.204:4145 Brazil  Limoeiro  1200 SOCKS4 
+170.79.178.12:4145 Brazil  Patos  1460 SOCKS4 
+186.194.119.17:4145 Brazil  Sirinhaem  1180 SOCKS4 
+103.200.93.234:4145 Bangladesh  Chittagong  1380 SOCKS4 
+36.37.180.59:1080 Cambodia   1320 SOCKS4 
+138.197.157.45:1080 Canada  Toronto  1280 SOCKS5 
+85.238.37.4:58672 Georgia   540 SOCKS4 
+87.229.215.38:58859 Russian Federation  Moscow  300 SOCKS4 
+75.102.138.62:33150 United States  Raleigh  740 SOCKS4 
+193.16.247.132:53281 Ukraine   320 HTTP 
+93.81.145.187:4145 Russian Federation  Kislovodsk  220 SOCKS4 
+95.141.227.248:40186 Russian Federation  Novocheboksarsk  140 SOCKS4 
+111.125.226.185:1080 India  Pune  1820 SOCKS4 
+202.43.183.158:4145 Indonesia  Tangerang  2240 SOCKS4 
+89.175.99.186:4145 Russian Federation  Krasnoznamensk  80 SOCKS4 
+91.225.97.250:4145 Slovenia  Gorenja Vas pri Smarjeti 340 SOCKS4 
+201.71.225.18:54642 Brazil  Santos  1340 SOCKS4 
+170.246.195.14:4145 Brazil  Paranhos  1260 SOCKS4 
+168.90.89.34:4145 Brazil  Floriano  5100 SOCKS4 
+169.255.81.138:38413 Botswana  Gaborone  1400 SOCKS4 
+117.206.83.242:44550 India  Gulbarga  1360 SOCKS4 
+181.113.228.26:48323 Ecuador   3480 HTTP 
+181.113.17.230:59067 Ecuador   1180 HTTP 
+168.195.196.25:53496 Brazil  Rio do Sul 1520 SOCKS4 
+170.79.176.143:4145 Brazil  Patos  1240 SOCKS4 
+97.68.17.66:53281 United States  Clermont  860 HTTP 
+170.0.126.169:4145 Brazil  Peritoro  1260 SOCKS4 
+167.249.78.13:4145 Brazil   1140 SOCKS4 
+181.225.98.229:34098 Colombia   1080 SOCKS4 
+162.247.46.223:54321 United States  Williams  1040 SOCKS4 
+139.255.17.50:49547 Indonesia  Tangerang  1120 SOCKS4 
+101.255.32.252:60931 Indonesia  Jakarta  1140 SOCKS4 
+27.116.20.169:57020 India  Annavaram  980 SOCKS4 
+185.208.100.197:59732 Turkey  Kilis  700 HTTP 
+168.194.83.18:44328 Brazil  Maracaju  1400 SOCKS4 
+139.255.12.101:4145 Indonesia  Jakarta  1160 SOCKS4 
+208.78.119.10:52263 United States   800 SOCKS4 
+202.146.245.156:44550 Indonesia  Bandung  1160 SOCKS4 
+178.165.120.54:55273 Ukraine  Kharkiv  560 HTTP 
+151.106.63.163:1080 France   480 HTTP 
+105.235.203.210:51696 Nigeria  Lagos  780 HTTP 
+182.253.16.170:4145 Indonesia  Jakarta  1100 SOCKS4 
+24.245.88.243:64312 United States  Sherman  860 SOCKS4 
+209.198.59.214:64312 United States  Montrose  920 SOCKS4 
+98.239.11.160:64312 United States  Meridian  960 SOCKS4 
+164.138.236.226:4145 Iraq  Basrah  1160 SOCKS4 
+103.214.41.98:4145 Hong Kong   1000 SOCKS4 
+212.72.141.242:8080 Georgia  Tbilisi  500 HTTP 
+185.136.166.249:1080 Germany   300 HTTP 
+185.136.167.7:1080 Germany   300 HTTP 
+212.75.202.74:52465 Russian Federation  Kemerovo  360 SOCKS4 
+109.105.54.74:57657 Czech Republic  Pruhonice  280 HTTP 
+79.106.44.69:55180 Albania   500 SOCKS4 
+88.255.205.253:4145 Turkey   660 SOCKS4 
+109.238.208.231:4153 Czech Republic  Prague  400 SOCKS4 
+95.86.32.4:59341 Macedonia  Resen  460 SOCKS4 
+81.208.30.15:4145 Italy  Turin  300 SOCKS4 
+91.225.98.118:4145 Slovenia   320 SOCKS4 
+88.2.168.100:4145 Spain  Lleida  520 SOCKS4 
+182.160.103.227:53281 Bangladesh  Dhaka  1800 HTTP 
+210.11.178.95:43127 Australia  Sydney  1940 SOCKS4 
+176.62.188.158:56351 Russian Federation  Istra  1320 HTTP 
+212.26.247.178:54862 Russian Federation  Ryazan  180 SOCKS4 
+27.131.191.118:3629 Thailand   1620 SOCKS4 
+134.249.126.36:44550 Ukraine  Kyiv  140 SOCKS4 
+138.68.73.59:54760 Germany  Frankfurt am Main 280 SOCKS4 
+91.244.73.126:4145 Russian Federation  Orenburg  180 SOCKS4 
+109.121.163.75:53282 Macedonia  Novo Selo 2820 HTTP 
+95.84.164.92:33825 Russian Federation  Moscow  100 SOCKS4 
+168.90.72.199:46959 Argentina  General Pico 1620 SOCKS4 
+177.10.250.166:31783 Brazil  Campo Maior 1080 HTTP 
+201.7.86.46:45478 Brazil   1660 SOCKS4 
+138.185.206.167:59341 Argentina   1780 SOCKS4 
+117.102.77.244:1080 Indonesia   1280 SOCKS4 
+191.7.50.119:4145 Brazil  Fortaleza  2380 SOCKS4 
+43.224.8.124:6667 India  Surendranagar  2080 SOCKS4 
+211.35.70.198:4145 Korea   1420 SOCKS4 
+190.12.95.170:56125 Peru   1100 HTTP 
+138.97.12.33:47038 Brazil  Duque de Caxias 1380 SOCKS4 
+176.98.75.143:55458 Ukraine  Cherkasy  1840 HTTP 
+186.148.168.94:33019 Colombia   1000 HTTP 
+103.117.232.55:49507 India   1140 SOCKS4 
+202.62.95.227:51327 India  Bengaluru  1140 SOCKS4 
+170.231.48.141:4145 Brazil  Amapora  1360 SOCKS4 
+170.79.176.239:4145 Brazil  Patos  1240 SOCKS4 
+164.163.250.18:4145 Brazil  Aparecida de Goiania 1360 SOCKS4 
+202.5.53.65:4145 Bangladesh   1260 SOCKS4 
+177.10.46.4:4145 Brazil  Extrema  1360 SOCKS4 
+185.136.166.250:1080 Germany   280 HTTP 
+185.136.166.248:1080 Germany   280 HTTP 
+167.114.79.139:32537 Canada  Montreal  740 SOCKS4 
+202.62.80.75:31960 India  Bengaluru  1000 SOCKS4 
+151.106.58.142:1080 France   620 HTTP 
+194.88.153.101:61064 Ukraine  Berehove  260 HTTP 
+143.208.57.97:4145 Guatemala  Guatemala City 1060 SOCKS4 
+170.247.22.46:4145 Brazil  Rio de Janeiro 1220 SOCKS4 
+189.199.112.138:4145 Mexico  Atotonilco de Tula 1040 SOCKS4 
+95.165.163.146:8888 Russian Federation  Moscow  2920 HTTP 
+80.211.94.238:5555 Italy  Arezzo  360 SOCKS4 
+95.188.68.19:45818 Russian Federation  Krasnoyarsk  340 SOCKS4 
+86.49.159.1:42178 Czech Republic  Prague  320 SOCKS4 
+177.129.228.160:30257 Brazil  Parnaiba  1920 HTTP 
+212.73.67.22:58221 Armenia   240 SOCKS4 
+186.249.209.168:8888 Brazil  Imperatriz  4500 HTTP 
+80.188.85.230:4145 Czech Republic  Prague  400 SOCKS4 
+85.52.71.35:4145 Spain  Marbella  460 SOCKS4 
+87.252.171.70:4145 Bulgaria  Plovdiv  400 SOCKS4 
+87.252.171.107:4145 Bulgaria  Plovdiv  440 SOCKS4 
+178.128.21.47:8080 Singapore  Singapore  860 HTTP 
+106.1.29.250:80 Taiwan  Chang-hua  1480 HTTP 
+170.79.178.75:4145 Brazil  Patos  2040 SOCKS4 
+170.79.178.161:4145 Brazil  Patos  1380 SOCKS4 
+80.80.167.18:4145 Albania   480 SOCKS4 
+87.101.114.45:4145 Hungary  Szarvas  380 SOCKS4 
+191.241.224.78:20183 Brazil  Louveira  3140 HTTP 
+202.159.112.67:30435 Indonesia  Jakarta  1320 SOCKS4 
+138.185.246.109:33555 Brazil  Sapezal  1620 SOCKS4 
+186.159.216.173:60620 Costa Rica  Cartago  920 HTTP 
+171.100.9.126:50504 Thailand  Bangkok  1300 SOCKS4 
+94.243.140.162:51050 Russian Federation  Moscow  1780 SOCKS4 
+164.115.241.138:31753 Thailand   1560 SOCKS4 
+138.97.221.45:53619 Brazil  Bertioga  1360 SOCKS4 
+168.228.31.131:4145 Brazil  Dois Vizinhos 1740 SOCKS4 
+170.231.48.129:4145 Brazil  Amapora  1360 SOCKS4 
+170.79.176.185:4145 Brazil  Patos  1300 SOCKS4 
+168.0.168.173:4145 Brazil   1380 SOCKS4 
+201.62.79.70:4145 Brazil  Herculandia  1560 SOCKS4 
+170.245.180.34:4145 Brazil   1460 SOCKS4 
+170.239.115.222:4145 Brazil  Iguaba Grande 1280 SOCKS4 
+150.107.205.59:4145 Nepal  Bhaktapur  1200 SOCKS4 
+64.192.234.98:53281 United States  Bluffton  5100 HTTP 
+138.0.204.122:31386 Brazil  Birigui  1520 SOCKS4 
+170.80.49.126:4145 Brazil  Santo Agostinho 1160 SOCKS4 
+101.109.116.180:4145 Thailand   1040 SOCKS4 
+104.248.170.69:8080 United Kingdom  London  280 HTTP 
+54.39.176.30:3128 Canada  Montreal  600 HTTP 
+185.136.167.6:1080 Germany   300 HTTP 
+202.129.185.170:41674 Indonesia  Cimahi  1120 SOCKS4 
+5.178.255.198:48830 Georgia  Bakuriani  1820 HTTP 
+139.255.12.65:51327 Indonesia  Bekasi  1100 SOCKS4 
+110.232.75.242:4145 Indonesia  Medan  1020 SOCKS4 
+138.68.24.145:1080 United States  Santa Clara 1160 SOCKS5 
+138.185.247.82:33555 Brazil   3060 SOCKS4 
+187.45.156.108:8080 Brazil  Sertaozinho  1720 HTTP 
+159.224.13.29:61366 Ukraine  Kharkiv  220 HTTP 
+212.154.56.1:32459 Turkey  Kosekoy  580 SOCKS4 
+90.178.205.226:4145 Czech Republic   400 SOCKS4 
+189.50.149.36:53281 Brazil  Passa Quatro 4760 HTTP 
+85.62.30.211:8080 Spain  Madrid  1440 HTTP 
+186.42.215.82:61362 Ecuador   4140 HTTP 
+89.36.219.208:3128 Germany  Frankfurt am Main 300 HTTPS 
+151.106.58.38:1080 France   340 HTTP 
+212.91.121.114:31715 Croatia   360 SOCKS4 
+186.194.112.141:4145 Brazil  Sirinhaem  1240 SOCKS4 
+186.250.73.5:4145 Brazil  Crixas  1460 SOCKS4 
+155.133.75.37:4145 Poland  Lubliniec  200 SOCKS4 
+88.220.191.175:4145 Poland   260 SOCKS4 
+85.92.164.179:4145 United Kingdom  Yeovil  320 SOCKS4 
+186.251.201.254:4145 Brazil  Itabirito  1280 SOCKS4 
+193.107.251.69:4145 Poland  Skawina  220 SOCKS4 
+186.4.167.220:42838 Ecuador  Santo Domingo de los Colorados 1160 SOCKS4 
+140.227.71.235:3128 Japan   1240 HTTP 
+186.249.213.23:36586 Brazil  Paragominas  1040 HTTP 
+186.249.213.65:52018 Brazil  Paragominas  1020 HTTP 
+123.110.185.95:45438 Taiwan   1640 SOCKS4 
+51.254.50.239:3128 France   280 HTTP 
+168.196.15.193:4145 Brazil   1440 SOCKS4 
+168.90.90.30:4145 Brazil  Bom Jesus 1360 SOCKS4 
+103.15.51.160:8080 Vietnam  Ho Chi Minh City 1440 HTTP 
+103.106.58.42:36371 Bangladesh  Kushtia  1080 HTTP 
+207.222.173.142:38694 United States  Hollywood  1100 SOCKS4 
+186.249.213.95:52588 Brazil  Paragominas  3160 HTTP 
+103.107.253.27:31333 India   1240 SOCKS4 
+163.47.35.118:39586 Bangladesh   1240 SOCKS4 
+168.196.41.178:4145 Brazil  Recife  1180 SOCKS4 
+170.238.101.54:4145 Brazil  Jaboatao dos Guararapes 1160 SOCKS4 
+103.21.55.253:4145 India  Indore  940 SOCKS4 
+170.79.178.77:4145 Brazil  Patos  1220 SOCKS4 
+202.137.26.8:4145 Indonesia  Jakarta  1080 SOCKS4 
+170.254.100.2:4145 Brazil  Bariri  1300 SOCKS4 
+170.79.177.63:4145 Brazil  Patos  1180 SOCKS4 
+138.99.69.99:4145 Brazil  Belford Roxo 1220 SOCKS4 
+45.227.190.42:4145 Brazil   1160 SOCKS4 
+201.175.51.126:4145 Brazil  Sao Miguel do Iguacu 1400 SOCKS4 
+168.228.112.45:4145 Brazil  Brejetuba  1240 SOCKS4 
+168.181.196.18:4145 Brazil  Anchieta  1280 SOCKS4 
+168.194.243.66:4145 Paraguay   1340 SOCKS4 
+168.121.113.24:4145 Brazil  Agrestina  1180 SOCKS4 
+110.44.117.97:4145 Nepal  Kathmandu  1080 SOCKS4 
+186.10.80.122:53281 Chile  Quinta Normal 1040 HTTP 
+192.241.187.83:31650 United States  New York 960 SOCKS4 
+94.177.170.43:26129 Italy  Arezzo  440 SOCKS4 
+208.86.71.71:38736 United States  Bell Buckle 860 SOCKS4 
+117.220.171.154:4153 India  Rohtak  960 SOCKS4 
+210.211.18.166:31096 Indonesia  Jakarta  960 HTTP 
+186.248.107.102:4145 Brazil  Joao Monlevade 1300 SOCKS4 
+178.62.24.94:80 United Kingdom  London  280 HTTP 
+91.216.231.94:41788 Ukraine   180 SOCKS4 
+51.75.109.88:3128 France   5020 HTTPS 
+186.38.99.238:4145 Argentina   1720 SOCKS4 
+186.251.102.249:4145 Brazil  Ipatinga  1540 SOCKS4 
+186.249.14.138:4145 Brazil  Belo Horizonte 1420 SOCKS4 
+212.1.99.114:4145 Ukraine  Lviv  200 SOCKS4 
+78.57.227.227:53281 Lithuania  Nida  3760 HTTP 
+186.46.138.194:38983 Ecuador  Quito  1120 SOCKS4 
+186.249.209.168:44937 Brazil  Imperatriz  1200 SOCKS4 
+103.115.255.253:36331 Bangladesh   1300 SOCKS4 
+98.207.120.166:54321 United States  Cotati  1060 SOCKS4 
+186.42.124.130:65301 Ecuador  Guayaquil  2100 HTTP 
+186.248.137.40:4145 Brazil  Belo Horizonte 1320 SOCKS4 
+210.245.51.17:4145 Vietnam  Hanoi  1840 SOCKS4 
+186.248.108.110:4145 Brazil  Joao Monlevade 1280 SOCKS4 
+186.248.106.250:4145 Brazil  Joao Monlevade 1260 SOCKS4 
+158.140.177.96:4145 Indonesia  Jakarta  1200 SOCKS4 
+186.42.185.94:41599 Ecuador  Quito  1160 SOCKS4 
+110.74.222.159:40348 Cambodia  Phnom Penh 1300 HTTP 
+138.185.24.25:4145 Brazil  Belo Horizonte 1460 SOCKS4 
+186.248.163.134:4145 Brazil  Belo Horizonte 1240 SOCKS4 
+132.148.141.237:58360 United States  Scottsdale  1120 SOCKS4 
+168.181.242.137:4145 Brazil  Linhares  1360 SOCKS4 
+186.46.235.82:40633 Ecuador  Ambato  1120 SOCKS4 
+186.46.7.82:38530 Ecuador   1240 SOCKS4 
+186.3.6.60:33258 Ecuador   1160 SOCKS4 
+190.210.15.193:32302 Argentina  Buenos Aires 1440 HTTP 
+186.225.180.74:3128 Brazil  Itamarandiba  1480 HTTP 
+137.59.161.226:33716 Indonesia  Bogor  1140 SOCKS4 
+200.199.114.226:33932 Brazil  Aracaju  1260 HTTP 
+51.75.109.84:3128 France   2400 HTTPS 
+137.59.62.1:59341 India  Delhi  1600 SOCKS4 
+186.4.253.189:59341 Ecuador  Quito  1160 SOCKS4 
+170.79.178.241:4145 Brazil  Patos  1260 SOCKS4 
+170.79.178.130:4145 Brazil  Patos  1320 SOCKS4 
+138.99.103.135:4145 Paraguay   1640 SOCKS4 
+186.46.0.130:4145 Ecuador   1180 SOCKS4 
+202.159.42.14:4145 Indonesia  Jakarta  1140 SOCKS4 
+168.227.89.150:4145 Brazil  Cosmorama  1540 SOCKS4 
+168.90.89.125:4145 Brazil  Agua Branca 1360 SOCKS4 
+103.212.211.4:4145 Indonesia   1220 SOCKS4 
+91.226.35.93:53281 Ukraine  Uzhhorod  840 HTTP 
+190.151.10.226:8080 Chile  Talca  1260 HTTP 
+45.120.127.24:32525 India  Delhi  940 SOCKS4 
+202.125.73.57:4145 Bangladesh  Dhaka  1140 SOCKS4 
+51.68.86.91:3128 France   300 HTTP 
+197.155.33.253:57989 South Africa  Knysna  1120 SOCKS4 
+103.15.141.182:48956 Bangladesh  Dhaka  1240 SOCKS4 
+110.39.162.74:53281 Pakistan  Lahore  780 HTTP 
